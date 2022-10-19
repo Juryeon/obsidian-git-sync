@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "483727bef2b531b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f55f881f891e124",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a50ba629fe21a8bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba8a7282a923476e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "c1a2d57eda175b40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8edbfab807cdd848",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b2b8ff81781f48dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b364d14ab58e5ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed094749c5aabd8d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "01dafacba64e00ae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0475340c7283b9a2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ff6f06817c4cd010",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d5e3c49510d9fce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "613f6c67de8da8f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "8.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0b6a505e8f30d8cd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "8.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3b70f0818df5ef20",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "334c429a94a90b7d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "8.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "3b70f0818df5ef20",
+  "lastOpenFiles": [
+    "7.md",
+    "8.md",
+    "6.md",
+    "5.md",
+    "4.md",
+    "3.md",
+    "2.md",
+    "0. Inbox/무제노트.md",
+    "1.md",
+    "0. Inbox/격려를 통한 영적 성장.md"
+  ]
+}
