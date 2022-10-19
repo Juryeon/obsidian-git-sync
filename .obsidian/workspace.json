@@ -122,8 +122,8 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -160,24 +160,24 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "3b70f0818df5ef20",
+  "active": "ba8a7282a923476e",
   "lastOpenFiles": [
+    "3.md",
     "7.md",
     "8.md",
     "6.md",
     "5.md",
     "4.md",
-    "3.md",
     "2.md",
     "0. Inbox/무제노트.md",
     "1.md",
