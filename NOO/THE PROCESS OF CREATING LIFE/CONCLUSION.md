@@ -4,4 +4,4 @@ The revolutionary consequences of chapter 14 can hardly be exaggerated. If livin
  The idea that feeling - above all feeling - should become the main anchor of the huge, hundred-million-variable process which creates life on Earth, seems hard to take seriously.
  Above all, it seems hard to implement. We live in a world of computer process, banking,  strictly controlled procedures. How is it possible to contemplate a world in which the freedom exists, that could allow natural unfolding - the unfolding governed by deep feeling - to control processes of such magnitude?
  Yet I do mean this seriously. Let me make three small points.
-  (1) By feeling, the reader must remember that I mean adherence to the whole.
+  (1) By feeling, the reader must remember that I mean adherence to the whole. It is not an idiosyncratic touchy-feely kind of thing, but serious, holistic connection with the whole, which provides a wholesome feeling in the actor.
