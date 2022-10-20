@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기도문/221020.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "기도문/221020.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "기도문/221020.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "기도문/221020.md"
+                "file": "README.md"
               }
             }
           }
@@ -166,15 +166,15 @@
   },
   "active": "b7fa075b4b3b5c29",
   "lastOpenFiles": [
-    "8.md",
     "7.md",
+    "README.md",
+    "8.md",
+    "기도문/221020.md",
     "6.md",
     "3.md",
     "5.md",
     "4.md",
     "2.md",
-    "0. Inbox/무제노트.md",
-    "1.md",
-    "0. Inbox/격려를 통한 영적 성장.md"
+    "0. Inbox/무제노트.md"
   ]
 }
