@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2a4975bd8ec48b5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "기도문/221023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "기도문/221022.md",
+                "file": "기도문/221023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "기도문/221022.md",
+                "file": "기도문/221023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "기도문/221022.md"
+                "file": "기도문/221023.md"
               }
             }
           }
@@ -188,8 +200,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b4bf5725ebe16257",
+  "active": "2a4975bd8ec48b5d",
   "lastOpenFiles": [
+    "기도문/221022.md",
+    "기도문/221023.md",
     "기도문/221020.md",
     "To be told/9.md",
     "To be told/README.md",
@@ -197,8 +211,6 @@
     "To be told/8.md",
     "To be told/7.md",
     "To be told/6.md",
-    "To be told/3.md",
-    "To be told/5.md",
-    "To be told/4.md"
+    "To be told/3.md"
   ]
 }
