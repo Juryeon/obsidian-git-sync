@@ -5,3 +5,4 @@ The revolutionary consequences of chapter 14 can hardly be exaggerated. If livin
  Above all, it seems hard to implement. We live in a world of computer process, banking,  strictly controlled procedures. How is it possible to contemplate a world in which the freedom exists, that could allow natural unfolding - the unfolding governed by deep feeling - to control processes of such magnitude?
  Yet I do mean this seriously. Let me make three small points.
   (1) By feeling, the reader must remember that I mean adherence to the whole. It is not an idiosyncratic touchy-feely kind of thing, but serious, holistic connection with the whole, which provides a wholesome feeling in the actor.
+  (2) Next - a feeling-guided process was typical in most human societies, during much of the Earth's history. That alone should give one pause in dismissing it too quickly. Why should it not also  be possible for us?
