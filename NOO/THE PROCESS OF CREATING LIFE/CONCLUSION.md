@@ -20,3 +20,9 @@ Nature is able to create living structure by smooth sequences of recursively app
  Of course, there are hundreds of thousands of specific social processes which may have the ability to increase the life of the whole. Certainly, I am not insisting that there is any one super-process, or only one kind of viable process. Rather, I am specifically insisting that there is only one class of living processes - albeit a very large class indeed - and that any particular process must, if it is to be a good one, belong to that class.
   When we engage in building design, or building construction, town-planning, or agriculture, or engineering, or placing highways, when we build buildings, when we give permission to the construction of buildings, when we consider plans for land-use - in all these cases too, the same unfolding process which has created living structure in nature, could - if allowed to - also create living structure in our environment.
    By inventing and re-inventing versions of the fundamental process in appropriate social forms, and applying these of process to all acts of making and building and repairing, this worldwide operation then contains within itself, the seeds or core of the biological unfolding process that occurs in nature, now applied to human society. Throughtout human society, human beings who use it will be capable of healing and remaking the ravaged  Earth.
+
+3 / THE BIOLOGY OF OUR FUTURE WORLD
+
+
+
+4 / THE FAR-DISTANT FUTURE
