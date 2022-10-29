@@ -36,4 +36,4 @@ People used to say that just as the 20th century had been the century of physics
 
 4 / THE FAR-DISTANT FUTURE
 
- In certain respects, some of  the processes I have described in this book have something in common with anci
+ In certain respects, some of  the processes I have described in this book have something in common with ancient process.
