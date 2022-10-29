@@ -1,4 +1,4 @@
 A FOUNDATION FOR ALL OF ARCHITECTURE
 
 The scheme of things I have started to present covers all of architecture. **The scheme starts with the concept of wholeness as something which exists in space, and with the idea of centers, the way that centers help each other.** **It goes on to the idea of living structure - the detailed ideas about the fifteen properties that allow centers to help each other, and the observation that this structure is pervasive in nature and in deeply satisfying man-made things.** 
- This constitutes, I think, a complete and coherent intellectual platform on which it is po
+ This constitutes, I think, a complete and coherent intellectual platform on which it is posible to erect a sensible architecture.
