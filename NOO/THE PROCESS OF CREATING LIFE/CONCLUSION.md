@@ -36,4 +36,4 @@ People used to say that just as the 20th century had been the century of physics
 
 4 / THE FAR-DISTANT FUTURE
 
- In certain respects, some of  the processes I have described in this book have something in common with ancient process. My respect for the language, and buildings, and processes of ancient society, is a respect for ancietn wisdom.
+ In certain respects, some of  the processes I have described in this book have something in common with ancient process. My respect for the language, and buildings, and processes of ancient society, is a respect for ancient wisdom.
