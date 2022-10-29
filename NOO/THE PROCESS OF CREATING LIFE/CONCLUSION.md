@@ -35,3 +35,5 @@ People used to say that just as the 20th century had been the century of physics
    In Book 3, we shall see how the fundamental process, applied interatively, thousands and thousands of times throughtout the landscape of a modern city has the capacity to generate living structure at every level. By looking at examples of the kind of city which living process generates, the reader will, I hope, begin to grasp the real meaning of living struture.
 
 4 / THE FAR-DISTANT FUTURE
+
+ In certain respects, some of  the processes I have described in this book have something in common with anci
