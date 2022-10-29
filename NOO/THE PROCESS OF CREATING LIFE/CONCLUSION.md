@@ -37,3 +37,4 @@ People used to say that just as the 20th century had been the century of physics
 4 / THE FAR-DISTANT FUTURE
 
  In certain respects, some of  the processes I have described in this book have something in common with ancient process. **My respect for the language, and buildings, and processes of ancient society, is a respect for ancient wisdom.** **But far more essentially, these things - the processes and building forms that I describe - belong to the future.** Indeed, in most respects, they belong more to the far-distant future than to the past or to the present.
+  The fundamental process and the structure-preserving unfolding process - these are things that
