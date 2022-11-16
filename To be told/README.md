@@ -78,4 +78,6 @@ What have your tragedies revealed to you about God's heart for humanity? Who are
 
 What inklings do you have of God's calling for you? 
 
+What do the themes and patterns of your life reveal about God? For instance: "My story reveals a surprising and unpredictable God who transforms shame through foolishness, violence through kindness, and arrogance through weakness."
+
 Look back over the stories and fragments of stories that you have written. What does your life reveal about the person and character of God? 
