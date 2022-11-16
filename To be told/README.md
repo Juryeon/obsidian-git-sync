@@ -84,4 +84,6 @@ Which stories do you most desire for God to redeem? Over what stories do you con
 
 What parts of your story are laced with such shame that you will not wrestle with God over them? 
 
+When have you seen God use your heartache for the good of another person?
+
 Look back over the stories and fragments of stories that you have written. What does your life reveal about the person and character of God? 
