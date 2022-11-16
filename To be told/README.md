@@ -34,6 +34,8 @@ Example: At family gatherings my aunts and uncles told stories about the chaos o
 
 	15.	 Emotion. What was the best day of your life? What makes you angry? When were you betrayed? When have you felt powerless? What was your most embar- rassing moment? your most glorious moment?
 
+
+
 	16.	Belief. What did your parents believe about God? When in your life did you feel most spiritually bereft? What has most impacted your religious beliefs?
 
 	17.	Sight. Think about a drive in the country or the mountains...a friend's face...a prized possession that you lost...finding a snake in your yard...your dog play- ing fetch. Describe the visual images that come to mind.
