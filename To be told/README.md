@@ -66,3 +66,7 @@ WHAT Do You WANT TO ACCOMPLISH?
 	29.	Knowing that this storytelling process is never easy, what will you do to protect your writing time and your stories?
 
 git remote add origin main https://Juryeon:5520209q1!@github.com/Juryeon/obsidian-git-sync.git
+
+
+
+Look back over the stories and fragments of stories that you have written. What does your life reveal about the person and character of God? 
