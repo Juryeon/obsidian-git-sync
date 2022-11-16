@@ -86,4 +86,6 @@ What parts of your story are laced with such shame that you will not wrestle wit
 
 When have you seen God use your heartache for the good of another person?
 
+At what points in your life has God remained silent and waited for you to do the writing? 
+
 Look back over the stories and fragments of stories that you have written. What does your life reveal about the person and character of God? 
