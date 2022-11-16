@@ -76,4 +76,6 @@ At what points in your life has God seemed absent?
 
 What have your tragedies revealed to you about God's heart for humanity? Who are the people you feel most called to love and serve, and what are their circumstances? 
 
+What inklings do you have of God's calling for you? 
+
 Look back over the stories and fragments of stories that you have written. What does your life reveal about the person and character of God? 
