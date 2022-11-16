@@ -68,6 +68,11 @@ WHAT Do You WANT TO ACCOMPLISH?
 git remote add origin main https://Juryeon:5520209q1!@github.com/Juryeon/obsidian-git-sync.git
 
 
+
 We write ultimately because it reveals not only our heart toward God, our patterns of sabotage, and our self-protective style of relating, but also the hand of a good God in our lives of relating, but also the hand of a good God in our lives and his outrageous offer to let us cowrite with him. And we write because God commands us to remember.
+
+
+At what points in your life has God seemed absent? 
+
 
 Look back over the stories and fragments of stories that you have written. What does your life reveal about the person and character of God? 
