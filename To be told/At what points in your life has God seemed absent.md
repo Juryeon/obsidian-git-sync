@@ -1,0 +1,1 @@
+At what points in your life has God seemed absent? 
