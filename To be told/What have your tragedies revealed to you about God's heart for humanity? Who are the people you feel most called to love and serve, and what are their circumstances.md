@@ -31,7 +31,9 @@ What have your tragedies revealed to you about God's heart for humanity? Who are
 시용쌤같이 나무를 좋아하는 사람이 살 수 있는 세상이야.
 이담쌤같이 음악을 좋아하는 사람이 살 수 있는 세상이야.
 자식이 지체장애인 사람이 살 수 있는 세상이야.
-자신이 잘하는 것을 
+자신이 잘하는 것으로 도우며 살 수 있는 세상이야.
+자신이 느끼는 것을 표현할 수 있는 세상이야.
+
 
 
 
