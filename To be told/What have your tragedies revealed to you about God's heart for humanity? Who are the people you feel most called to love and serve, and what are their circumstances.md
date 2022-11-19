@@ -38,7 +38,10 @@ What have your tragedies revealed to you about God's heart for humanity? Who are
 
 저에게는 모세처럼 그들을 한번에 구원할 능력이 없습니다.
 
-
+내가 가장사랑하도록 부름받은 사람은 누구인가?
+몸이 아픈사람
+땅이 없는사람.
+자신만의 공간이 없는 사람.
 
 
 
