@@ -24,5 +24,6 @@ What have your tragedies revealed to you about God's heart for humanity? Who are
 주련아. 너가 정말 바라는 세상은 어떤 세상인데?
 그 세상은 어떤 느낌이니?
 
+내가 바라는 세상은...
 
 
