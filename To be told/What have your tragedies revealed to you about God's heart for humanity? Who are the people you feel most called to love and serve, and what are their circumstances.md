@@ -36,7 +36,9 @@ What have your tragedies revealed to you about God's heart for humanity? Who are
 
 이 사람들은 현재의 삶을 유지하기가 힘들어, 이대로라도 좋을 것 같은데 말이지..
 
-현재로도 추ㅇ
+저에게는 모세처럼 그들을 한번에 구원할 능력이 없습니다.
+
+
 
 
 
