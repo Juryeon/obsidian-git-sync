@@ -26,5 +26,11 @@ What have your tragedies revealed to you about God's heart for humanity? Who are
 
 내가 바라는 세상은...
 함께 사는 세상이야.
-본정자매님같이 
+본정자매님같이 도와주는 사람과 함께 하는 세상이야.
+오도쌤같이 꽃을 좋아하는 사람이 살 수 있는 세상이야.
+시용쌤같이 나무를 좋아하는 사람이 살 수 있는 세상이야.
+이담쌤같이 음악을 좋아하는 사람이 살 수 있는 세상이야.
+
+
+
 
