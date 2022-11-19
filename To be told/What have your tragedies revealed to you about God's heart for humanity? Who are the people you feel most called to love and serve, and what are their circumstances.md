@@ -30,7 +30,8 @@ What have your tragedies revealed to you about God's heart for humanity? Who are
 오도쌤같이 꽃을 좋아하는 사람이 살 수 있는 세상이야.
 시용쌤같이 나무를 좋아하는 사람이 살 수 있는 세상이야.
 이담쌤같이 음악을 좋아하는 사람이 살 수 있는 세상이야.
-
+자식이 지체장애인 사람이 살 수 있는 세상이야.
+자신이 잘하는 것을 
 
 
 
