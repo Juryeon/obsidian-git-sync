@@ -14,5 +14,6 @@ What have your tragedies revealed to you about God's heart for humanity? Who are
 그들에게는 땅이 없었지요.
 
 내가 누리는 것과 또는 내가 누리지 못하는 것과 이것과 별개로 아무것도 누리지못하는 그들은 누구입니까>
+저는 저의 비전을 이야기하기보다 이전에 솔직하게 주님앞에 생각과 느낌을 내어 놓길 원합니다.
 
 
