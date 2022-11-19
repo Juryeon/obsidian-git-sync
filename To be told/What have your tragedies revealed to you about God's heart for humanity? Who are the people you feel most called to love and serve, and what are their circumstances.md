@@ -48,7 +48,7 @@ What have your tragedies revealed to you about God's heart for humanity? Who are
 자신만의 땅, 자신만의 영역이 없는 사람. 그들에게 가나안을 제공하길 원합니다.
 내가 가나안에 들어가지 못해도 좋습니다.
 그들이 하나님의 뜻이 그렇다면,
-그들의 땅, 그들의 영역에 그들이 닿을 수 있기를 워
+그들의 땅, 그들의 영역에 그들이 닿을 수 있기를 원합니다.
 
 
 
