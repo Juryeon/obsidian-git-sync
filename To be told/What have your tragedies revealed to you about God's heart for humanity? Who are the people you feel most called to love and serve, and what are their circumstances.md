@@ -34,6 +34,9 @@ What have your tragedies revealed to you about God's heart for humanity? Who are
 자신이 잘하는 것으로 도우며 살 수 있는 세상이야.
 자신이 느끼는 것을 표현할 수 있는 세상이야.
 
+이 사람들은 현재의 삶을 유지하기가 힘들어, 이대로라도 좋을 것 같은데 말이지..
+
+현재로도 추ㅇ
 
 
 
