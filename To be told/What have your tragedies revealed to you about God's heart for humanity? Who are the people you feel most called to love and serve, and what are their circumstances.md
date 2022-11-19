@@ -53,6 +53,7 @@ What have your tragedies revealed to you about God's heart for humanity? Who are
 나에게 비극은 성공하지 못한것인가? 아니다.  그런게 아니다.
 무용수 같이 그렇게 그냥 살고 싶다. 그 사람은 그냥 음악을 표현하는게 좋았을 뿐이다.
 
-그 느낌을 말로 표현할 수 있을
+그 느낌을 말로 표현할 수 있을까?
+
 
 
