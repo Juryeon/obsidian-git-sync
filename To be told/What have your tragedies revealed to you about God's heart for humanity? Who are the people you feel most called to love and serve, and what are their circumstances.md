@@ -25,5 +25,6 @@ What have your tragedies revealed to you about God's heart for humanity? Who are
 그 세상은 어떤 느낌이니?
 
 내가 바라는 세상은...
-
+함께 사는 세상이야.
+본정자매님같이 
 
