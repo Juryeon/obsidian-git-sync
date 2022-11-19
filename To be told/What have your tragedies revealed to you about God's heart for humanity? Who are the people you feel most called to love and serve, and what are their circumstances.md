@@ -43,5 +43,8 @@ What have your tragedies revealed to you about God's heart for humanity? Who are
 땅이 없는사람.
 자신만의 공간이 없는 사람.
 
+이 지구중의 일부 중에 자신을 위한 공간이라는 곳이 없는 사람...
+가아
+
 
 
