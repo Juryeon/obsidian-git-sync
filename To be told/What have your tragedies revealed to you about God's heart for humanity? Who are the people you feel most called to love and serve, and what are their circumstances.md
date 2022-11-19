@@ -1,0 +1,1 @@
+What have your tragedies revealed to you about God's heart for humanity? Who are the people you feel most called to love and serve, and what are their circumstances? 
