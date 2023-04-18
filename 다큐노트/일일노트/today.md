@@ -24,8 +24,7 @@
 - it the night
 	- 듣기
 		- 신명기 7
-	- 말하기 in the night
-		
+	- 
 
 
 
