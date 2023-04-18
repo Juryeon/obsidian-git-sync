@@ -16,7 +16,7 @@
 	- 
 - it the night
 	- 듣기
-		- 신명기 7
+		- Deuteronomy 7
 	- 
 
 
