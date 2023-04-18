@@ -1,7 +1,7 @@
 - 날짜 : 20230419
 - in the morning
 	- 듣기
-		- 2 Samuel 7-9
+		- 2 Samuel 7
 	- 말하기
 	- 어린이 영어 성경 읽기
 - 일
