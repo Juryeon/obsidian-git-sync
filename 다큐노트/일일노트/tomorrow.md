@@ -2,7 +2,7 @@
 - in the morning
 	- 듣기
 		- 2 Samuel 8-10
-	- 말하기
+	- 찬송
 - 일
 	- with a person
 		- 상호코칭 with 시영
@@ -14,7 +14,6 @@
 	- with a book
 		- 아담의 침묵
 		- 고통속에서 하나님을 발견하다.
-	- 영어 어린이 성경 읽기
 - 사건
 	- 
 - it the night
