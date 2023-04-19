@@ -1,7 +1,7 @@
 - 날짜 : 20230419
 - in the morning
 	- 듣기
-		- 2 Samuel 7-9
+		- 2 Samuel 8
 	- 말하기
 - 일
 	- with a person
@@ -16,7 +16,7 @@
 	- 
 - it the night
 	- 듣기
-		- Deuteronomy 2:27-37
+		- Deuteronomy 
 
 
 
