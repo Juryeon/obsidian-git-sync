@@ -4,6 +4,7 @@
 		- 2 Samuel 8-10
 			- 므비보셋이 엎드려 아뢰었다. “이 종이 무엇이기에 죽은 개나 다름없는 저를 임금님께서 이렇게까지 돌보아 주십니까?” 
 	- 찬송
+		- There is a fountain with blood
 - 일
 	- with a person
 		- 상호코칭 with 시영
