@@ -8,7 +8,7 @@
 
 - 일
 	- with a person
-		- 상호코칭 with 미희
+		- ~~상호코칭 with 미희
 			- 의도 : skin in the game
 	- 구인글 작성
 	- with a book
