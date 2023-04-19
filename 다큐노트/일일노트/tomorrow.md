@@ -7,6 +7,8 @@
 	- with a person
 		- 상호코칭 with 시영
 			- 의도 : skin in the game, 병목지점에 대한 피드백
+		- 묵상나눔 with 영란
+			- 의도 : 하나님을 
 	- 구인글 작성
 	- with a book
 		- 아담의 침묵
