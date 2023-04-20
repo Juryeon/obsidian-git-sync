@@ -14,7 +14,7 @@
 	- 
 - it the night
 	- 듣기
-		- Deuteronomy 3:1-11
+		- Deuteronomy 3:12-22
 
 
 
