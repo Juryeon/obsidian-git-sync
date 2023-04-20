@@ -15,10 +15,8 @@
 		- 당근마켓용
 	- with a book
 		- 아담의 침묵
-		- 고통속에서 하나님을 발견하다.
-- 사건
-	- 
-- it the night
+		- 고통속에서 하나님을 발견하다. 
+- in the night
 	- 듣기
 		- Deuteronomy 3:1-11
 
