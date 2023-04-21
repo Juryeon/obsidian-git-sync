@@ -1,7 +1,8 @@
 - 날짜 : 20230421
 - in the morning
 	- 듣기
-		- 2 Samuel 14-16
+		- 2 Samuel 14-15
+			- 
 	- 찬송
 - 일
 	- with a person
