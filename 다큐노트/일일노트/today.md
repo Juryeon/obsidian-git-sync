@@ -7,8 +7,6 @@
 	- with a person
 		- 상호코칭 with 미희
 			- 의도 : skin in the game
-	- 구인글 작성
-		- 고흥맘카페용
 	- with a book
 		- 아담의 침묵
 		- 고통속에서 하나님을 발견하다.
