@@ -3,6 +3,7 @@
 	- 듣기
 		- 2 Samuel 11-13
 	- 찬송
+		- There is a fountain with blood
 - 일
 	- with a person
 		- 에어컨 점겅 요청 : 에어컨 점검은 상온 24도 이상이어야 판단을 할 수가 있음. 지금은 추워서 판단할 수 없음.
