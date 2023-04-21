@@ -1,11 +1,12 @@
 - 날짜 : 20230421
 - in the morning
 	- 듣기
-		- 2 Samuel 11-13
+		- 2 Samuel 14-16
 	- 찬송
 - 일
 	- with a person
-		- 에어컨 점겅 요청 : 에어컨 점검은 상온 24도 이상이어야 판단을 할 수가 있음. 지금은 추워서 판단할 수 없음.
+		- 상호코칭 with 미희
+			- 의도 : skin in the game
 	- 구인글 작성
 		- 고흥맘카페용
 	- with a book
