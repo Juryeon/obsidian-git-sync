@@ -1,7 +1,7 @@
 - 날짜 : 20230422
 - in the morning
 	- 듣기
-		- 2 Samuel 17-1
+		- 2 Samuel 17-19
 			-  
 	- 찬송
 - 일
