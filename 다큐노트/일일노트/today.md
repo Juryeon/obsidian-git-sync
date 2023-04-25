@@ -3,19 +3,16 @@
 	- 듣기
 		- 2 Samuel 22-24
 	- 말하기
-		- 배우자 기도
-		- 아르바이트 만남 기도
 - 일
-	- 상호코칭 with 상완
+	- 상호코칭 with 미희
 			- 의도 : skin in the game
 	- with a book
 		- 아담의 침묵
 		- 고통속에서 하나님을 발견하다.
 - 사건
-	- 국희이모의 전화 : 진영이의 고통, 어머니의 무심함, 나의 분노
 - it the night
 	- 듣기
-		- Deuteronomy 4:15-31
+		- Deuteronomy 4:32-43
 
 
 
