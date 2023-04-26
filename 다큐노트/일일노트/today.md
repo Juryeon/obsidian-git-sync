@@ -9,8 +9,10 @@
 		- There is a fountain with blood
 - 일
 	- 천막정리 with 아버지
-	- 상호코칭 with 
-			- 의도 : skin in the game
+	- 상호코칭 with 시영
+		- 의도 : skin in the game
+	- qt나눔 with 영란
+		- 의도 :  하나님을 더 잘 알고, 알도록 돕는 것
 	- with a book
 		- 아담의 침묵
 		- 고통속에서 하나님을 발견하다.
