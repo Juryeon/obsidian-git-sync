@@ -1,7 +1,7 @@
 - 날짜 : 20230428
 - in the morning
 	- 듣기
-		- 1 Kings 4-6
+		- 1 Kings 4-5
 			- 		
 	- 말하기
 		- 
