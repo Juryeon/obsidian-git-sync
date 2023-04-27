@@ -23,7 +23,7 @@
 - 사건
 - it the night
 	- 듣기
-		- Deuteronomy 4:32-43
+		- Deuteronomy 4:44-5:5
 
 
 
