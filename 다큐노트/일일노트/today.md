@@ -11,10 +11,10 @@
 	- 찬양
 		- There is a fountain with blood
 - 일
-	- 
+	- 아르바이트 
 	- with a book
 		- 끊어진 관계 다시 잇기
-		- 고통속에서 하나님을 발견하다.
+		- 그리스도인을 위한 인간이해
 - 사건
 	- 
 - it the night
