@@ -9,7 +9,8 @@
 		- There is a fountain with blood
 - 일
 	- with a people
-		- 아르바이트생 
+		- first encounter with 아르바이트생 
+			- 의도 : 대접받고 싶은 대로 대접한다.
 	- with a book
 		- 끊어진 관계 다시 잇기
 		- 그리스도인을 위한 인간이해
