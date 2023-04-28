@@ -11,7 +11,7 @@
 	- 찬양
 		- There is a fountain with blood
 - 일
-	- 아르바이트 
+	- 아르바이트 소통
 	- with a book
 		- 끊어진 관계 다시 잇기
 		- 그리스도인을 위한 인간이해
