@@ -16,10 +16,11 @@
 		- 끊어진 관계 다시 잇기
 		- 그리스도인을 위한 인간이해
 - 사건
-	- 
+	- 음란의 유혹과 인내
+	- 어머니
 - it the night
 	- 듣기
-		- Deuteronomy 
+		- Deuteronomy 5:6-21
 
 
 
