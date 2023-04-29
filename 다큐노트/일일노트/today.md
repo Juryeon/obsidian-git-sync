@@ -19,7 +19,7 @@
 	- 
 - it the night
 	- 듣기
-		- Deuteronomy 5:22
+		- Deuteronomy 5:22-33
 
 
 
