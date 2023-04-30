@@ -1,7 +1,7 @@
 - 날짜 : 20230501
 - in the morning
 	- 듣기
-		- 1 Kings 9
+		- 1 Kings 12
 			
 	- 말하기
 		- 
