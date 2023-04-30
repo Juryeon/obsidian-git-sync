@@ -17,7 +17,7 @@
 	- 
 - it the night
 	- 듣기
-		- Deuteronomy 6:1
+		- Deuteronomy 
 
 
 
