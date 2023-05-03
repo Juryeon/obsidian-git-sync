@@ -2,6 +2,7 @@
 - in the morning
 	- 듣기
 		- Deuteronomy 6:10-7:11
+		- 1 King 18
 	- 말하기
 	- 찬양
 - 일
