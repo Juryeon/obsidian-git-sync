@@ -14,7 +14,7 @@
 	- 선미님은 쓰임을 원한다. / 진정성을 원한다.
 - it the night
 	- 듣기
-		- Deuteronomy 
+		- 
 
 
 

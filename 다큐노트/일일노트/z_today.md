@@ -1,7 +1,7 @@
 - 날짜 : 20230504
 - in the morning
 	- 듣기
-		- 1 Kings 9
+		- Deuteronomy 6:10
 	- 말하기
 	- 찬양
 - 일
