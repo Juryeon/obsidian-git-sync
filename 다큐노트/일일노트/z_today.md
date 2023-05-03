@@ -8,7 +8,7 @@
 - 일
 	- with people
 		- 상호코칭 with 시영
-			- 의도 : 선미님 안에 있는 선의 발견(하나님의 형상 발견)
+			- 의도 : skin in the game
 		- qt나눔 with 영란
 			- 의도 : 하나님을 더 잘 알게 되고, 알게 되도록 돕는 것.
 	- with a book
