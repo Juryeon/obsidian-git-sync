@@ -14,7 +14,7 @@
 			- 의도 : skin in the game
 		- 전봇대 취소
 - 사건
-	- 
+	- 아버지 오심 / 꼬리뼈 통증 /  믿음이모와 통화
 - it the night
 	- 듣기
 		- Deuteronomy 
