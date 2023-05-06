@@ -6,7 +6,8 @@
 	- 말하기
 	- 찬양
 - 일
-	- with ㅔㄷ
+	- with people
+		- 알바생 전화
 - 사건
 	- 
 - it the night
