@@ -1,7 +1,7 @@
 - 날짜 : 20230507
 - in the morning
 	- 듣기
-		- 1 King 
+		- 1 King 21-22, 2 King 1
 			-
 	- 말하기
 	- 찬양
