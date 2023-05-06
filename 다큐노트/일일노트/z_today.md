@@ -9,7 +9,7 @@
 	- with people
 		- 알바생 문자
 - 사건
-	- 우동을 쏟다.
+	- 우동을 쏟다. / 아버지 어머니에게 답답함을 느끼다. / 일을 잘해야 한다?
 - it the night
 	- 듣기
 		- Deuteronomy 
