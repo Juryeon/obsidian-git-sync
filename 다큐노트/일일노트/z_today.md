@@ -1,13 +1,12 @@
 - 날짜 : 20230506
 - in the morning
 	- 듣기
-		- 1 King 
+		- 1 King 20
 			-
 	- 말하기
 	- 찬양
 - 일
-	- with people
-		- 
+	- with ㅔㄷ
 - 사건
 	- 
 - it the night
