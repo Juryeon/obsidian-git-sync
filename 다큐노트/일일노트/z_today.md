@@ -7,9 +7,9 @@
 	- 찬양
 - 일
 	- with people
-		- 알바생 전화
+		- 알바생 문자
 - 사건
-	- 
+	- 우동을 쏟다.
 - it the night
 	- 듣기
 		- Deuteronomy 
