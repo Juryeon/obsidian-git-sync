@@ -7,7 +7,7 @@
 	- 찬양
 - 일
 - 사건
-	- 
+	- 김구라 가족 식시하러 옴 / 
 - it the night
 	- 듣기
 		- Deuteronomy 
