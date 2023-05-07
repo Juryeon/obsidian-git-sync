@@ -6,6 +6,8 @@
 	- 말하기
 		- 동역자 / 배우자 / 내가 아닌 하나님을 신뢰 / 하나님이 선하시다는 것을 믿음.
 	- 찬양
+		- There is a fountain 
+		- This is my father's world
 - 일
 - 사건
 	- 
