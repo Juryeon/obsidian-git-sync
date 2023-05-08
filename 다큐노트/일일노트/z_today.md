@@ -1,7 +1,7 @@
 - 날짜 : 20230509
 - in the morning
 	- 듣기
-		- 2 King 
+		- 2 King 3-4
 	- 말하기
 		- 
 	- 찬양
