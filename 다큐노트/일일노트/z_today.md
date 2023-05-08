@@ -12,6 +12,7 @@
 		- 직불금 수령
 		- 재해보험증권 수령
 		- 의무이행점검 제출
+		- mutual c with 상완
 - 사건
 	- 
 - it the night
