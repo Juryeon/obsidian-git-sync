@@ -5,7 +5,7 @@
 			- 그래서 돈 많고 권세 높은 나아만은 마음을 바꾸어 겸손히
 			- 여호와께만 번제와 제물을 바치고, 다른 어떤 신도 섬기지 않겠습니다.
 	- 말하기
-		-  
+		-  배우자 / 동역자 / 하나님은 여호와이심이 모든 이유
 	- 찬양
 		- There is a fountain filled with blood
 		- This is my father's world
