@@ -11,11 +11,11 @@
 		- This is my father's world
 - 일
 	- with people
-
 		- 가게앞 보수
 			- 
 	-  with a book
 		- 끊어진 관계 다시 잇기
+		- 삐끗한 결혼생활 중심바로잡기
 - 사건
 	- 
 	- 듣기
