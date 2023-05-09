@@ -13,7 +13,8 @@
 	- with people
 		- 가게앞 보수
 			- 생각을 살린다. / 생각을 보탠다.
-		- ma
+		- mutual coaching with 미희
+			- 
 	-  with a book
 		- 끊어진 관계 다시 잇기
 		- 삐끗한 결혼생활 중심바로잡기
