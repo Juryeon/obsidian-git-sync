@@ -4,7 +4,7 @@
 		- 2 King 5
 			- 
 	- 말하기
-		- 
+		-  
 	- 찬양
 		- There is a fountain filled with blood
 		- This is my father's world
@@ -19,7 +19,7 @@
 - 사건
 	- 
 	- 듣기
-		- Deuteronomy  10
+		- Deuteronomy  
 
 
 
