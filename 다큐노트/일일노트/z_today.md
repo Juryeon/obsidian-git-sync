@@ -31,7 +31,7 @@
 	- 
 - it the night
 	- 듣기
-		- Deuteronomy  9:1-7
+		- Deuteronomy  9:8-29
 
 
 
