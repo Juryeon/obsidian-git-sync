@@ -21,7 +21,7 @@
 - 사건
 	- 
 - 듣기
-	- Deuteronomy  
+	- Deuteronomy  10:1-11
 
 
 
