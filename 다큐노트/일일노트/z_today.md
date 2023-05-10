@@ -20,8 +20,8 @@
 		- 삐끗한 결혼생활 중심바로잡기
 - 사건
 	- 
-	- 듣기
-		- Deuteronomy  
+- 듣기
+	- Deuteronomy  
 
 
 
