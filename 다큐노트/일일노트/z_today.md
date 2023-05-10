@@ -1,11 +1,10 @@
-- 날짜 : 20230510
+- 날짜 : 20230511
 - in the morning
 	- 듣기
-		- 2 King 5-7
-			- 그래서 돈 많고 권세 높은 나아만은 마음을 바꾸어 겸손히
-			- 여호와께만 번제와 제물을 바치고, 다른 어떤 신도 섬기지 않겠습니다.
+		- 2 King 8
+			- 
 	- 말하기
-		-  배우자 / 동역자 / 하나님은 여호와이심이 모든 이유
+		-  
 	- 찬양
 		- There is a fountain filled with blood
 		- This is my father's world
@@ -13,15 +12,17 @@
 	- with people
 		- 가게앞 보수
 			- 생각을 살린다. / 생각을 보탠다.
-		- mutual coaching with 미희
-			- 의도 : 그 사람 마음에 속삭여주시는 음성 중 아직도 그 사람이나 제 가 알아듣지 못하고 있는 것은 무엇입니까?
+		- mutual coaching with 시영
+			- 의도 : 
+		- QT나눔 with 영란
+			- 의도 : 
 	-  with a book
 		- 끊어진 관계 다시 잇기
 		- 삐끗한 결혼생활 중심바로잡기
 - 사건
 	- 
 - 듣기
-	- Deuteronomy  10:1-11
+	- Deuteronomy  10:12
 
 
 
