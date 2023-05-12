@@ -10,14 +10,8 @@
 		- This is my father's world
 - 일
 	- with people
-		- 가게앞 보수
-			- 생각을 살린다. / 생각을 보탠다.
 		- 알바 같이 일하기
-			- 의도 : 
-		- QT나눔 with 영란
-			- 
-	-  with a book
-		- 삐끗한 결혼생활 중심바로잡기
+			- 의도 : 이름을 불러준다.
 - 사건
 	- 
 - 듣기
