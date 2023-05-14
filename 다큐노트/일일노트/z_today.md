@@ -9,9 +9,10 @@
 		- This is my father's world
 - 일
 	- with people
-		- 알바 같이 일하기
+		- 같이 일하기 with 한미옥
 			- 의도 : 이름을 불러준다.
 		- QT나눔 with 영란
+			- 의도 : 하나님을 더 잘 알고, 더 잘 알 수 있도록 돕기.
 - 사건
 	- 
 - 듣기
