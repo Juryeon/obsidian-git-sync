@@ -10,9 +10,8 @@
 		- This is my father's world
 - 일
 	- with people
-		- 은지와 통화
-		- 하도 칠하기
-		- 내일 만남 확정
+		- 상호코칭 with 안상완
+		- 다큐노트 공유 with 선미
 - 사건
 	- 
 - 듣기
