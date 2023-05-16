@@ -10,7 +10,9 @@
 		- This is my father's world
 - 일
 	- with people
-		- 
+		- 아버지에게 사과
+		- 상호코칭 with 미희
+		- 상호코칭 with 상완
 - 사건
 	- 
 - 듣기
