@@ -1,7 +1,7 @@
 - 날짜 : 20230519
 - in the morning
 	- 듣기
-		- 
+		- 1 Chronicles 
 	- 말하기
 		-  
 	- 찬양
