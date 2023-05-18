@@ -4,9 +4,6 @@
 		- 1 Chronicles 
 	- 말하기
 		-  
-	- 찬양
-		- There is a fountain filled with blood
-		- This is my father's world
 - 일
 	- with people
 		- 한미옥님과 일하기
