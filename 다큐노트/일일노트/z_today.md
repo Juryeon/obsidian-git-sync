@@ -8,7 +8,7 @@
 	- with people
 		- 한미옥님과 일하기
 - 사건
-	- 
+	- 담석통증
 - 듣기
 	- Deuteronomy  
 
