@@ -9,11 +9,11 @@
 		- This is my father's world
 - 일
 	- with people
-		- 한미옥님
+		- 한미옥님과 일하기
 - 사건
-	- 시영님에게 죄성에 대해 비유로 설명하다. / 영란자매님이 성경책을 생일선물로 주다. / 
+	- 
 - 듣기
-	- Deuteronomy  12:13-32
+	- Deuteronomy  
 
 
 
