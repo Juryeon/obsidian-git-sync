@@ -3,7 +3,7 @@
 	- 듣기
 		- 1 Chronicles 2 - 3
 	- 말하기
-		-  배우자 / ㄷ
+		-  배우자 / 동역자 / 제자
 	- 찬양
 		- There is a fountain filled with blood
 		- This is my father's world
