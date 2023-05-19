@@ -1,9 +1,9 @@
 - 날짜 : 20230520
 - in the morning
 	- 듣기
-		- 1 Chronicles 2 
+		- 1 Chronicles 2 - 3
 	- 말하기
-		-  ㅇ
+		-  
 	- 찬양
 		- There is a fountain filled with blood
 		- This is my father's world
