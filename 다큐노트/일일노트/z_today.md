@@ -3,12 +3,15 @@
 	- 듣기
 		- 1 Chronicles 2 
 	- 말하기
-		-  
+		-  ㅇ
+	- 찬양
+		- There is a fountain filled with blood
+		- This is my father's world
 - 일
 	- with people
-		- ~~한미옥님과 일하기
+		- 한미옥님과 일하기
 - 사건
-	- 과식 / 2단계 담석통증 / 하루종일 쉼 / 물도 먹을 수 없는 상태 / 물 설사 / 병원 다녀오는것 때문에 어머니와 심하게 다툼
+	- 
 - 듣기
 	- Deuteronomy  
 
