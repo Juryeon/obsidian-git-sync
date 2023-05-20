@@ -13,7 +13,7 @@
 - 사건
 	- 
 - 듣기
-	- Deuteronomy  
+	- Deuteronomy  14:22-29
 
 
 
