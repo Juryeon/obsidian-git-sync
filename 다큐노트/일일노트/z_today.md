@@ -1,17 +1,17 @@
 - 날짜 : 20230522
 - in the morning
 	- 듣기
-		- 1 Chronicles 2 - 3
+		- 1 Chronicles 
 	- 말하기
-		-  배우자 / 동역자 / 제자 / 스승
+		-  
 	- 찬양
 		- There is a fountain filled with blood
 		- This is my father's world
 - 일
 	- with people
-		- 한미옥님과 일하기
+		- 셜리나와 일하기
 - 사건
-	- 셜리나 면접 요청 / 토요일 알바 제안 / 김지영님  토요일 알바 수락 / 셜리나 월요일로 요일 변경
+	- 
 - 듣기
 	- Deuteronomy  14:22-29
 
