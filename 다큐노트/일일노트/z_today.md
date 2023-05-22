@@ -3,7 +3,7 @@
 	- 듣기
 		- 1 Chronicles 5-7
 	- 말하기
-		-  
+		-  배우자 / 동역자 / 제자 / 스승 / 셜리나
 	- 찬양
 		- There is a fountain filled with blood
 		- This is my father's world
