@@ -11,9 +11,10 @@
 	- with people
 		- 셜리나와 일하기
 - 사건
-	- 
+	- 하고 싶었던 말
+		- 
 - 듣기
-	- Deuteronomy  15:22-29
+	- Deuteronomy  15:12-23
 
 
 
