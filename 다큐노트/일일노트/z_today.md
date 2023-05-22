@@ -9,7 +9,8 @@
 		- This is my father's world
 - 일
 	- with people
-		- 셜리나와 일하기
+		- 코칭 with 상완
+		- 다큐노트 공유 with 선미
 - 사건
 	- 
 - 듣기
