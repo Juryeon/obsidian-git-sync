@@ -1,7 +1,7 @@
 - 날짜 : 20230523
 - in the morning
 	- 듣기
-		- 1 Chronicles 8-10
+		- 1 Chronicles 11
 	- 말하기
 		-  배우자 / 동역자 / 제자 / 스승 / 셜리나
 	- 찬양
