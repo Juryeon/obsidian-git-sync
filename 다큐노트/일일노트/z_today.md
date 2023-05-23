@@ -8,6 +8,7 @@
 		-  배우자 / 동역자 
 	- 찬양
 		- This is my father's world
+		- 10,000 Reasons
 - 일
 	- with people
 		- 
