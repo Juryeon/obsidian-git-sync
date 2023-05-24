@@ -20,7 +20,7 @@
 - 듣기
 	- Deuteronomy  16:18-17:13
 
-
+매 칠년마다 하나님은 빚을 면제해주라고 하십니다. 
 
 저는 이거를 하고 싶어서 어제 이렇게 했는데 뭘 바꿔야 할까요?
 content / pattern / relationship
