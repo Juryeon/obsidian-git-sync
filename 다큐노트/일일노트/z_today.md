@@ -1,7 +1,7 @@
 - 날짜 : 20230524
 - in the morning
 	- 듣기
-		- 1 Chronicles
+		- 1 Chronicles 14-15
 	- 말하기
 		-  배우자 / 동역자 
 	- 찬양
