@@ -1,7 +1,7 @@
 - 날짜 : 20230527
 - in the morning
 	- 듣기
-		- 1 Chronicles 16-17
+		- 1 Chronicles 18-20
 			- 
 	- 말하기
 		-  배우자 / 동역자 
