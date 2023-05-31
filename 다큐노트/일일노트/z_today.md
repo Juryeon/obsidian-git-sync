@@ -11,6 +11,7 @@
 		- 10,000 Reasons
 - 일
 	- with people
+		- 할머니 퇴원 알림 to 오케이요양병원
 		- 상호코칭 with 시영
 		- qt나눔 with 영란
 - with a book
