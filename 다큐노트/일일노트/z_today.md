@@ -1,4 +1,4 @@
-- 날짜 : 20230531
+- 날짜 : 20230601
 - in the morning
 	- 듣기
 		- 1 Chronicles 28-30
