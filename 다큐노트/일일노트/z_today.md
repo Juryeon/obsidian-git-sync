@@ -9,7 +9,7 @@
 		- 10,000 Reasons
 - 일
 	- with people
-		- 
+		- 한미옥 아주머니와 일하기
 - with a book
 	- 지상에서 가장 안전한 곳
 	- 상담과 치유 공동체
