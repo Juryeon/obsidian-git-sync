@@ -1,7 +1,7 @@
 - 날짜 : 2023-06-02
 - in the morning
 	- 듣기
-		- 2 Chronicles
+		- 2 Chronicles 4-5
 	- 말하기
 		-  배우자 / 동역자 
 	- 찬양
@@ -17,7 +17,3 @@
 	- 
 - 듣기
 	- Deuteronomy 
-
-
-저는 이거를 하고 싶어서 어제 이렇게 했는데 뭘 바꿔야 할까요?
-content / pattern / relationship
