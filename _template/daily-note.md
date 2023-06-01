@@ -1,4 +1,4 @@
-- 날짜 : 20230602
+- 제목 : 20230602
 - in the morning
 	- 듣기
 		- 2 Chronicles
