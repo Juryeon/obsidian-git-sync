@@ -1,7 +1,7 @@
-- 날짜 : 2023-06-02
+- 날짜 : today
 - in the morning
 	- 듣기
-		- 2 Chronicles 4-5
+		- 2 Chronicles
 	- 말하기
 		-  배우자 / 동역자 
 	- 찬양
