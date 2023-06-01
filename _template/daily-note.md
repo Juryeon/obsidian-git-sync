@@ -1,4 +1,4 @@
-- 날짜 : {{date}}
+- 날짜 : {{date}}{{title}}{{time}}
 - in the morning
 	- 듣기
 		- 2 Chronicles
