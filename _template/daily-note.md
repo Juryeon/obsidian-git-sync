@@ -1,7 +1,7 @@
 - 날짜 : {{date:YYYY-MM-DD}}
 - in the morning
 	- 듣기
-		- Ezra
+		- Ezra-Nehemiah
 	- 말하기
 		-  배우자 / 동역자 
 	- 찬양
