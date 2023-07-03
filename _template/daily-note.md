@@ -24,4 +24,4 @@
 	- Gentlness
 	- Self-control
 - 듣기
-	- Deuteronomy 
+	- Hebrews 
