@@ -15,6 +15,10 @@
 		- 네 가장 소중한 것을 버려라
 - 사건
 	- Love
+	- Joy
+	- Peace
+	- Patience
+	- Kindness
 	- 
 - 듣기
 	- Deuteronomy 
