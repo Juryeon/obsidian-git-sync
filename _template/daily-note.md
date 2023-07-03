@@ -19,6 +19,7 @@
 	- Peace
 	- Patience
 	- Kindness
+	- Goodness
 	- Faithfulness
 	- Gentlness
 	- Self-control
