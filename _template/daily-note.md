@@ -19,6 +19,8 @@
 	- Peace
 	- Patience
 	- Kindness
-	- 
+	- Faithfulness
+	- Gentlness
+	- Self-control
 - 듣기
 	- Deuteronomy 
