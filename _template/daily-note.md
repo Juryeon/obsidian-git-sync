@@ -19,6 +19,7 @@
 	- Peace
 	- Patience
 	- Kindness
+		- 과자와 돈가스를 바꿔먹자고 하심
 	- Goodness
 	- Faithfulness
 	- Gentlness
