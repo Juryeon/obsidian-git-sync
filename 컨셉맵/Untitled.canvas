@@ -2,7 +2,9 @@
 	"nodes":[
 		{"id":"188a76edecc6be6f","x":-128,"y":-23,"width":108,"height":50,"type":"text","text":"하나님"},
 		{"id":"36b5b1b9162acda8","x":-360,"y":80,"width":136,"height":60,"type":"text","text":"선한 계획"},
-		{"id":"bf649de278d35f52","x":-660,"y":180,"width":82,"height":60,"type":"text","text":"나"}
+		{"id":"bf649de278d35f52","x":-660,"y":180,"width":82,"height":60,"type":"text","text":"나"},
+		{"id":"bb0d401c75bebbeb","x":-485,"y":180,"width":250,"height":60,"type":"text","text":"고통스러운 일"},
+		{"id":"d0d04964e618563f","x":-485,"y":280,"width":250,"height":60,"type":"text","text":"저지른 잘못"}
 	],
 	"edges":[
 		{"id":"d29bc347d78d0974","fromNode":"188a76edecc6be6f","fromSide":"left","toNode":"36b5b1b9162acda8","toSide":"right","label":"has a"}
