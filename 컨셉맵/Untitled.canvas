@@ -3,13 +3,13 @@
 		{"id":"188a76edecc6be6f","x":-128,"y":-23,"width":108,"height":50,"type":"text","text":"하나님"},
 		{"id":"36b5b1b9162acda8","x":-360,"y":80,"width":136,"height":60,"type":"text","text":"선한 계획"},
 		{"id":"bf649de278d35f52","x":-780,"y":150,"width":82,"height":60,"type":"text","text":"나"},
-		{"id":"d0d04964e618563f","x":-580,"y":280,"width":145,"height":60,"type":"text","text":"저지른 잘못"},
+		{"id":"d0d04964e618563f","x":-580,"y":280,"width":100,"height":60,"type":"text","text":"잘못"},
 		{"id":"bb0d401c75bebbeb","x":-800,"y":280,"width":165,"height":60,"type":"text","text":"고통스러운 일"}
 	],
 	"edges":[
 		{"id":"d29bc347d78d0974","fromNode":"188a76edecc6be6f","fromSide":"left","toNode":"36b5b1b9162acda8","toSide":"right","label":"has a"},
 		{"id":"83fac1a32f407626","fromNode":"bf649de278d35f52","fromSide":"right","toNode":"bb0d401c75bebbeb","toSide":"left","label":"experience"},
-		{"id":"ee8f94ce3a02fe94","fromNode":"bf649de278d35f52","fromSide":"right","toNode":"d0d04964e618563f","toSide":"left"},
+		{"id":"ee8f94ce3a02fe94","fromNode":"bf649de278d35f52","fromSide":"right","toNode":"d0d04964e618563f","toSide":"left","label":"make a"},
 		{"id":"248595821b4b2ac0","fromNode":"36b5b1b9162acda8","fromSide":"left","toNode":"bf649de278d35f52","toSide":"right","label":"ard hard to believe"}
 	]
 }
