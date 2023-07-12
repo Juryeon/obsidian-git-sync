@@ -1,7 +1,8 @@
 {
 	"nodes":[
 		{"id":"188a76edecc6be6f","x":-128,"y":-23,"width":108,"height":50,"type":"text","text":"하나님"},
-		{"id":"bf649de278d35f52","x":-440,"y":180,"width":82,"height":60,"type":"text","text":"나"}
+		{"id":"bf649de278d35f52","x":-560,"y":180,"width":82,"height":60,"type":"text","text":"나"},
+		{"id":"36b5b1b9162acda8","x":-156,"y":231,"width":116,"height":60,"type":"text","text":"계획"}
 	],
 	"edges":[]
 }
