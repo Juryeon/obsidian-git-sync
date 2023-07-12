@@ -1,21 +1,20 @@
 {
 	"nodes":[
-		{"type":"text","text":"선한 계획","id":"36b5b1b9162acda8","x":-666,"y":-180,"width":136,"height":60},
-		{"id":"b263733600886772","x":-400,"y":-180,"width":140,"height":60,"type":"text","text":"나의 고통"},
 		{"type":"text","text":"God","id":"188a76edecc6be6f","x":-598,"y":-30,"width":108,"height":50},
 		{"id":"31fa1503bc9c18a7","x":-330,"y":-30,"width":250,"height":60,"type":"text","text":"Good plan"},
 		{"id":"ce4a736f7d8c91e9","x":-357,"y":162,"width":250,"height":60,"type":"text","text":"painful things"},
 		{"id":"37a76230428573db","x":-605,"y":162,"width":75,"height":60,"type":"text","text":"I"},
-		{"id":"a21b3f3830382952","x":-357,"y":280,"width":250,"height":60,"type":"text","text":"mistakes"}
+		{"id":"a21b3f3830382952","x":-357,"y":280,"width":250,"height":60,"type":"text","text":"mistakes"},
+		{"id":"e82d70c2cd6ab209","x":-669,"y":-240,"width":250,"height":60,"type":"text","text":"faith"}
 	],
 	"edges":[
-		{"id":"6043250b99b760e9","fromNode":"36b5b1b9162acda8","fromSide":"right","toNode":"b263733600886772","toSide":"left","label":"include"},
 		{"id":"3bd3a200483272f7","fromNode":"188a76edecc6be6f","fromSide":"right","toNode":"31fa1503bc9c18a7","toSide":"left","label":"has a"},
 		{"id":"50fc93f9fc1a22b5","fromNode":"37a76230428573db","fromSide":"right","toNode":"ce4a736f7d8c91e9","toSide":"left","label":"go through"},
 		{"id":"6f15ce0e42ef8a2f","fromNode":"37a76230428573db","fromSide":"bottom","toNode":"a21b3f3830382952","toSide":"left","label":"make"},
 		{"id":"7ce12e995253d1e3","fromNode":"ce4a736f7d8c91e9","fromSide":"right","toNode":"31fa1503bc9c18a7","toSide":"right","label":"are part of"},
 		{"id":"c3a4bedd98292bf1","fromNode":"a21b3f3830382952","fromSide":"right","toNode":"31fa1503bc9c18a7","toSide":"right"},
 		{"id":"35e0d57e934010c5","fromNode":"37a76230428573db","fromSide":"top","toNode":"31fa1503bc9c18a7","toSide":"bottom","label":"don't belive"},
-		{"id":"adaf58b9c083933b","fromNode":"37a76230428573db","fromSide":"left","toNode":"188a76edecc6be6f","toSide":"left","label":"ask"}
+		{"id":"adaf58b9c083933b","fromNode":"37a76230428573db","fromSide":"left","toNode":"188a76edecc6be6f","toSide":"left","label":"ask"},
+		{"id":"55c3c63851906237","fromNode":"188a76edecc6be6f","fromSide":"top","toNode":"e82d70c2cd6ab209","toSide":"bottom","label":"for more"}
 	]
 }
