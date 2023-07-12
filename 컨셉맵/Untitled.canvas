@@ -4,8 +4,8 @@
 		{"type":"text","text":"고통스러운 일","id":"bb0d401c75bebbeb","x":-800,"y":280,"width":165,"height":60},
 		{"type":"text","text":"선한 계획","id":"36b5b1b9162acda8","x":-666,"y":-180,"width":136,"height":60},
 		{"id":"b263733600886772","x":-400,"y":-180,"width":140,"height":60,"type":"text","text":"나의 고통"},
-		{"type":"text","text":"하나님","id":"188a76edecc6be6f","x":-598,"y":-30,"width":108,"height":50},
-		{"id":"37a76230428573db","x":-925,"y":-35,"width":75,"height":60,"type":"text","text":"나"}
+		{"type":"text","text":"God","id":"188a76edecc6be6f","x":-598,"y":-30,"width":108,"height":50},
+		{"id":"37a76230428573db","x":-925,"y":-35,"width":75,"height":60,"type":"text","text":"I"}
 	],
 	"edges":[
 		{"id":"6043250b99b760e9","fromNode":"36b5b1b9162acda8","fromSide":"right","toNode":"b263733600886772","toSide":"left","label":"include"},
