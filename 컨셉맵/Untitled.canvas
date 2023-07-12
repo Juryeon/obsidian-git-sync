@@ -10,6 +10,6 @@
 		{"id":"d29bc347d78d0974","fromNode":"188a76edecc6be6f","fromSide":"left","toNode":"36b5b1b9162acda8","toSide":"right","label":"has a"},
 		{"id":"83fac1a32f407626","fromNode":"bf649de278d35f52","fromSide":"right","toNode":"bb0d401c75bebbeb","toSide":"left"},
 		{"id":"ee8f94ce3a02fe94","fromNode":"bf649de278d35f52","fromSide":"right","toNode":"d0d04964e618563f","toSide":"left"},
-		{"id":"6aa8d17f24d7e26a","fromNode":"bf649de278d35f52","fromSide":"right","toNode":"36b5b1b9162acda8","toSide":"left","label":"find it hard to believe"}
+		{"id":"248595821b4b2ac0","fromNode":"36b5b1b9162acda8","fromSide":"left","toNode":"bf649de278d35f52","toSide":"right"}
 	]
 }
