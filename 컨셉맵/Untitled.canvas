@@ -9,7 +9,7 @@
 	],
 	"edges":[
 		{"id":"6043250b99b760e9","fromNode":"36b5b1b9162acda8","fromSide":"right","toNode":"b263733600886772","toSide":"left","label":"include"},
-		{"id":"a4f19073864d88b4","fromNode":"37a76230428573db","fromSide":"right","toNode":"188a76edecc6be6f","toSide":"left"},
+		{"id":"a4f19073864d88b4","fromNode":"37a76230428573db","fromSide":"right","toNode":"188a76edecc6be6f","toSide":"left","label":"ask for faith in"},
 		{"id":"3291856cdb5b7971","fromNode":"188a76edecc6be6f","fromSide":"bottom","toNode":"37a76230428573db","toSide":"bottom"}
 	]
 }
