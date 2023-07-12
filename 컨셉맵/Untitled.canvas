@@ -5,11 +5,13 @@
 		{"type":"text","text":"선한 계획","id":"36b5b1b9162acda8","x":-666,"y":-180,"width":136,"height":60},
 		{"id":"b263733600886772","x":-400,"y":-180,"width":140,"height":60,"type":"text","text":"나의 고통"},
 		{"type":"text","text":"God","id":"188a76edecc6be6f","x":-598,"y":-30,"width":108,"height":50},
-		{"id":"37a76230428573db","x":-925,"y":-35,"width":75,"height":60,"type":"text","text":"I"}
+		{"id":"31fa1503bc9c18a7","x":-330,"y":-30,"width":250,"height":60,"type":"text","text":"Good plan"},
+		{"id":"37a76230428573db","x":-581,"y":160,"width":75,"height":60,"type":"text","text":"I"},
+		{"id":"ce4a736f7d8c91e9","x":-357,"y":162,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"6043250b99b760e9","fromNode":"36b5b1b9162acda8","fromSide":"right","toNode":"b263733600886772","toSide":"left","label":"include"},
-		{"id":"a4f19073864d88b4","fromNode":"37a76230428573db","fromSide":"right","toNode":"188a76edecc6be6f","toSide":"left","label":"ask for more faith in"},
-		{"id":"3291856cdb5b7971","fromNode":"188a76edecc6be6f","fromSide":"bottom","toNode":"37a76230428573db","toSide":"bottom"}
+		{"id":"3bd3a200483272f7","fromNode":"188a76edecc6be6f","fromSide":"right","toNode":"31fa1503bc9c18a7","toSide":"left","label":"has a"},
+		{"id":"50fc93f9fc1a22b5","fromNode":"37a76230428573db","fromSide":"right","toNode":"ce4a736f7d8c91e9","toSide":"left"}
 	]
 }
