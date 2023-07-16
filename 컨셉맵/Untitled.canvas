@@ -2,10 +2,10 @@
 	"nodes":[
 		{"type":"text","text":"God","id":"c8f3336cf376ec91","x":-125,"y":-30,"width":85,"height":60},
 		{"type":"text","text":"us","id":"0af2437ab3e76bc8","x":100,"y":-30,"width":85,"height":60},
-		{"type":"text","text":"us","id":"a191193d361d032d","x":100,"y":380,"width":83,"height":60},
 		{"type":"text","text":"deepest hunger\n","id":"1d2c61d45622e73d","x":422,"y":-30,"width":178,"height":60},
 		{"type":"text","text":"the courage","id":"dc054b7ce5a292d3","x":640,"y":60,"width":139,"height":60},
-		{"type":"text","text":"longing","id":"b885a666a24b486d","x":143,"y":280,"width":144,"height":60}
+		{"type":"text","text":"longing","id":"b885a666a24b486d","x":143,"y":280,"width":144,"height":60},
+		{"id":"a23c820348fb0a48","x":460,"y":380,"width":80,"height":60,"type":"text","text":"sin"}
 	],
 	"edges":[
 		{"id":"6dc53c0750fb4d68","fromNode":"c8f3336cf376ec91","fromSide":"right","toNode":"0af2437ab3e76bc8","toSide":"left","label":"help"},
@@ -15,6 +15,7 @@
 		{"id":"32b9c44ff558c6c0","fromNode":"1d2c61d45622e73d","fromSide":"bottom","toNode":"dc054b7ce5a292d3","toSide":"left","label":"with"},
 		{"id":"904605c63bd34e49","fromNode":"0af2437ab3e76bc8","fromSide":"bottom","toNode":"b885a666a24b486d","toSide":"top","label":"to fully realize"},
 		{"id":"892b9c6ead3f395b","fromNode":"b885a666a24b486d","fromSide":"left","toNode":"c8f3336cf376ec91","toSide":"bottom","label":"of"},
-		{"id":"a45ea66574e72404","fromNode":"c8f3336cf376ec91","fromSide":"bottom","toNode":"0af2437ab3e76bc8","toSide":"bottom","label":"wants to be with"}
+		{"id":"a45ea66574e72404","fromNode":"c8f3336cf376ec91","fromSide":"bottom","toNode":"0af2437ab3e76bc8","toSide":"bottom","label":"wants to be with"},
+		{"id":"d3cf7b402107a823","fromNode":"0af2437ab3e76bc8","fromSide":"bottom","toNode":"a23c820348fb0a48","toSide":"top","label":"even when we are in"}
 	]
 }
