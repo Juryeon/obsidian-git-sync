@@ -5,7 +5,7 @@
 		{"type":"text","text":"deepest hunger\n","id":"1d2c61d45622e73d","x":360,"y":-30,"width":178,"height":60},
 		{"id":"dc054b7ce5a292d3","x":600,"y":80,"width":139,"height":60,"type":"text","text":"the courage"},
 		{"id":"b885a666a24b486d","x":41,"y":255,"width":144,"height":60,"type":"text","text":"longing"},
-		{"id":"a191193d361d032d","x":-448,"y":277,"width":250,"height":60,"type":"text","text":"us"}
+		{"id":"a191193d361d032d","x":-400,"y":285,"width":250,"height":60,"type":"text","text":"us"}
 	],
 	"edges":[
 		{"id":"6dc53c0750fb4d68","fromNode":"c8f3336cf376ec91","fromSide":"right","toNode":"0af2437ab3e76bc8","toSide":"left","label":"help"},
@@ -15,6 +15,6 @@
 		{"id":"32b9c44ff558c6c0","fromNode":"1d2c61d45622e73d","fromSide":"bottom","toNode":"dc054b7ce5a292d3","toSide":"left","label":"with"},
 		{"id":"904605c63bd34e49","fromNode":"0af2437ab3e76bc8","fromSide":"bottom","toNode":"b885a666a24b486d","toSide":"top","label":"to fully realize"},
 		{"id":"892b9c6ead3f395b","fromNode":"b885a666a24b486d","fromSide":"left","toNode":"c8f3336cf376ec91","toSide":"bottom","label":"of"},
-		{"id":"2f9b8c99c9b40f5b","fromNode":"c8f3336cf376ec91","fromSide":"left","toNode":"a191193d361d032d","toSide":"right"}
+		{"id":"2f9b8c99c9b40f5b","fromNode":"c8f3336cf376ec91","fromSide":"left","toNode":"0af2437ab3e76bc8","toSide":"bottom","label":"want to be with"}
 	]
 }
