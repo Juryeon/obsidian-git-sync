@@ -1,7 +1,11 @@
 {
 	"nodes":[
 		{"type":"text","text":"God","id":"c8f3336cf376ec91","x":-125,"y":-30,"width":85,"height":60},
-		{"id":"0af2437ab3e76bc8","x":40,"y":0,"width":85,"height":60,"type":"text","text":"us"}
+		{"id":"0af2437ab3e76bc8","x":100,"y":-30,"width":85,"height":60,"type":"text","text":"us"},
+		{"id":"7475d262607b5f2a","x":320,"y":-30,"width":84,"height":60,"type":"text","text":""},
+		{"id":"1d2c61d45622e73d","x":242,"y":-16,"width":250,"height":60,"type":"text","text":"deepest hunger\n"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"6dc53c0750fb4d68","fromNode":"c8f3336cf376ec91","fromSide":"right","toNode":"0af2437ab3e76bc8","toSide":"left","label":"help"}
+	]
 }
