@@ -13,6 +13,7 @@
 		{"id":"206eb127b87b84a2","fromNode":"0af2437ab3e76bc8","fromSide":"bottom","toNode":"1d2c61d45622e73d","toSide":"bottom","label":"to live by"},
 		{"id":"32b9c44ff558c6c0","fromNode":"1d2c61d45622e73d","fromSide":"bottom","toNode":"dc054b7ce5a292d3","toSide":"left","label":"with"},
 		{"id":"904605c63bd34e49","fromNode":"0af2437ab3e76bc8","fromSide":"bottom","toNode":"b885a666a24b486d","toSide":"top","label":"to fully realize"},
-		{"id":"892b9c6ead3f395b","fromNode":"b885a666a24b486d","fromSide":"left","toNode":"c8f3336cf376ec91","toSide":"bottom","label":"of"}
+		{"id":"892b9c6ead3f395b","fromNode":"b885a666a24b486d","fromSide":"left","toNode":"c8f3336cf376ec91","toSide":"bottom","label":"of"},
+		{"id":"1916749ff320b18d","fromNode":"c8f3336cf376ec91","fromSide":"bottom","toNode":"2b42f4589de95791","toSide":"top"}
 	]
 }
