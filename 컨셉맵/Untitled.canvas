@@ -8,7 +8,7 @@
 		{"id":"6dc53c0750fb4d68","fromNode":"c8f3336cf376ec91","fromSide":"right","toNode":"0af2437ab3e76bc8","toSide":"top","label":"help"},
 		{"id":"15dc65cd458907e7","fromNode":"0af2437ab3e76bc8","fromSide":"right","toNode":"1d2c61d45622e73d","toSide":"left","label":"to discover"},
 		{"id":"e2d11fdc0ce3d122","fromNode":"1d2c61d45622e73d","fromSide":"top","toNode":"c8f3336cf376ec91","toSide":"top","label":"for"},
-		{"id":"905f2bc9987940b9","fromNode":"c8f3336cf376ec91","fromSide":"bottom","toNode":"0af2437ab3e76bc8","toSide":"bottom","label":"give"},
+		{"id":"905f2bc9987940b9","fromNode":"c8f3336cf376ec91","fromSide":"bottom","toNode":"0af2437ab3e76bc8","toSide":"left","label":"give"},
 		{"id":"206eb127b87b84a2","fromNode":"0af2437ab3e76bc8","fromSide":"bottom","toNode":"1d2c61d45622e73d","toSide":"bottom","label":"the courage to live by"}
 	]
 }
