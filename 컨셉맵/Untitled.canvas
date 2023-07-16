@@ -4,13 +4,13 @@
 		{"type":"text","text":"us","id":"0af2437ab3e76bc8","x":100,"y":-30,"width":80,"height":60},
 		{"type":"text","text":"longing","id":"b885a666a24b486d","x":143,"y":280,"width":144,"height":60},
 		{"id":"a23c820348fb0a48","x":600,"y":250,"width":80,"height":60,"type":"text","text":"sin"},
-		{"type":"text","text":"deepest hunger\n","id":"1d2c61d45622e73d","x":551,"y":-30,"width":178,"height":60},
-		{"id":"39fe2ea5dad4f4e8","x":299,"y":25,"width":161,"height":55,"type":"text","text":"the courage"}
+		{"type":"text","text":"deepest hunger\n","id":"1d2c61d45622e73d","x":640,"y":-180,"width":178,"height":60},
+		{"id":"39fe2ea5dad4f4e8","x":380,"y":30,"width":161,"height":55,"type":"text","text":"the courage"}
 	],
 	"edges":[
 		{"id":"6dc53c0750fb4d68","fromNode":"c8f3336cf376ec91","fromSide":"right","toNode":"0af2437ab3e76bc8","toSide":"left","label":"help"},
-		{"id":"15dc65cd458907e7","fromNode":"0af2437ab3e76bc8","fromSide":"right","toNode":"1d2c61d45622e73d","toSide":"top","label":"to discover"},
-		{"id":"e2d11fdc0ce3d122","fromNode":"1d2c61d45622e73d","fromSide":"right","toNode":"c00c81f2ea90f6d1","toSide":"top","label":"for"},
+		{"id":"15dc65cd458907e7","fromNode":"0af2437ab3e76bc8","fromSide":"right","toNode":"1d2c61d45622e73d","toSide":"left","label":"to discover"},
+		{"id":"e2d11fdc0ce3d122","fromNode":"1d2c61d45622e73d","fromSide":"top","toNode":"c8f3336cf376ec91","toSide":"top","label":"for"},
 		{"id":"206eb127b87b84a2","fromNode":"39fe2ea5dad4f4e8","fromSide":"right","toNode":"1d2c61d45622e73d","toSide":"bottom","label":"to live by"},
 		{"id":"904605c63bd34e49","fromNode":"0af2437ab3e76bc8","fromSide":"bottom","toNode":"b885a666a24b486d","toSide":"top","label":"to fully realize"},
 		{"id":"892b9c6ead3f395b","fromNode":"b885a666a24b486d","fromSide":"left","toNode":"c8f3336cf376ec91","toSide":"bottom","label":"of"},
