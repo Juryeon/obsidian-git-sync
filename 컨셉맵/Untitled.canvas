@@ -5,7 +5,7 @@
 		{"type":"text","text":"deepest hunger\n","id":"1d2c61d45622e73d","x":422,"y":-30,"width":178,"height":60},
 		{"type":"text","text":"the courage","id":"dc054b7ce5a292d3","x":640,"y":60,"width":139,"height":60},
 		{"type":"text","text":"longing","id":"b885a666a24b486d","x":143,"y":280,"width":144,"height":60},
-		{"id":"a23c820348fb0a48","x":460,"y":380,"width":80,"height":60,"type":"text","text":"sin"}
+		{"id":"a23c820348fb0a48","x":600,"y":250,"width":80,"height":60,"type":"text","text":"sin"}
 	],
 	"edges":[
 		{"id":"6dc53c0750fb4d68","fromNode":"c8f3336cf376ec91","fromSide":"right","toNode":"0af2437ab3e76bc8","toSide":"left","label":"help"},
