@@ -14,7 +14,7 @@
 		{"id":"669f24fb6ee25c19","x":-1192,"y":570,"width":120,"height":50,"type":"text","text":"harder"},
 		{"id":"7b6d5ad41270a5ea","x":-1184,"y":760,"width":52,"height":50,"type":"text","text":"I"},
 		{"id":"cc8aff83a6a8b4b6","x":-1012,"y":760,"width":192,"height":50,"type":"text","text":"believe"},
-		{"id":"5893497a4b1008e5","x":-1185,"y":860,"width":106,"height":50,"type":"text","text":"Help"}
+		{"id":"5893497a4b1008e5","x":-1192,"y":880,"width":106,"height":50,"type":"text","text":"Help"}
 	],
 	"edges":[
 		{"id":"3bd3a200483272f7","fromNode":"188a76edecc6be6f","fromSide":"right","toNode":"31fa1503bc9c18a7","toSide":"left","label":"has a"},
