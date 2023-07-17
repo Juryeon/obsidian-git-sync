@@ -11,7 +11,8 @@
 		{"type":"text","text":"Your good plan","id":"116a62e2126f9e9c","x":-107,"y":498,"width":250,"height":60},
 		{"type":"text","text":"someting good","id":"fe7165b91002073c","x":-107,"y":620,"width":164,"height":53},
 		{"type":"text","text":"hard","id":"5667f0bac5cff512","x":-1184,"y":511,"width":104,"height":50},
-		{"id":"669f24fb6ee25c19","x":-1192,"y":570,"width":120,"height":50,"type":"text","text":"harder"}
+		{"id":"669f24fb6ee25c19","x":-1192,"y":570,"width":120,"height":50,"type":"text","text":"harder"},
+		{"id":"7b6d5ad41270a5ea","x":-1184,"y":760,"width":52,"height":50,"type":"text","text":"I"}
 	],
 	"edges":[
 		{"id":"3bd3a200483272f7","fromNode":"188a76edecc6be6f","fromSide":"right","toNode":"31fa1503bc9c18a7","toSide":"left","label":"has a"},
