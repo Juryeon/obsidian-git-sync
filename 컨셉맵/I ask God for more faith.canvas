@@ -1,11 +1,5 @@
 {
 	"nodes":[
-		{"type":"text","text":"God","id":"188a76edecc6be6f","x":-598,"y":-30,"width":108,"height":50},
-		{"type":"text","text":"Good plan","id":"31fa1503bc9c18a7","x":-330,"y":-30,"width":250,"height":60},
-		{"type":"text","text":"painful things","id":"ce4a736f7d8c91e9","x":-357,"y":162,"width":250,"height":60},
-		{"type":"text","text":"I","id":"37a76230428573db","x":-605,"y":162,"width":75,"height":60},
-		{"type":"text","text":"mistakes","id":"a21b3f3830382952","x":-357,"y":280,"width":250,"height":60},
-		{"type":"text","text":"faith","id":"e82d70c2cd6ab209","x":-669,"y":-240,"width":250,"height":60},
 		{"type":"text","text":"everything","id":"8912ba374a940c2a","x":-820,"y":501,"width":127,"height":60},
 		{"type":"text","text":"wrong","id":"6ba8ba33c3d32943","x":-490,"y":501,"width":98,"height":60},
 		{"type":"text","text":"Your good plan","id":"116a62e2126f9e9c","x":-107,"y":498,"width":250,"height":60},
@@ -17,14 +11,6 @@
 		{"type":"text","text":"hard","id":"5667f0bac5cff512","x":-1206,"y":476,"width":104,"height":50,"color":"5"}
 	],
 	"edges":[
-		{"id":"3bd3a200483272f7","fromNode":"188a76edecc6be6f","fromSide":"right","toNode":"31fa1503bc9c18a7","toSide":"left","label":"has a"},
-		{"id":"50fc93f9fc1a22b5","fromNode":"37a76230428573db","fromSide":"right","toNode":"ce4a736f7d8c91e9","toSide":"left","label":"go through"},
-		{"id":"6f15ce0e42ef8a2f","fromNode":"37a76230428573db","fromSide":"bottom","toNode":"a21b3f3830382952","toSide":"left","label":"make"},
-		{"id":"7ce12e995253d1e3","fromNode":"ce4a736f7d8c91e9","fromSide":"right","toNode":"31fa1503bc9c18a7","toSide":"right","label":"are part of"},
-		{"id":"c3a4bedd98292bf1","fromNode":"a21b3f3830382952","fromSide":"right","toNode":"31fa1503bc9c18a7","toSide":"right"},
-		{"id":"35e0d57e934010c5","fromNode":"37a76230428573db","fromSide":"top","toNode":"31fa1503bc9c18a7","toSide":"bottom","label":"don't belive"},
-		{"id":"adaf58b9c083933b","fromNode":"37a76230428573db","fromSide":"left","toNode":"188a76edecc6be6f","toSide":"left","label":"ask"},
-		{"id":"55c3c63851906237","fromNode":"188a76edecc6be6f","fromSide":"top","toNode":"e82d70c2cd6ab209","toSide":"bottom","label":"for more"},
 		{"id":"dbcaeda8f0569a88","fromNode":"8912ba374a940c2a","fromSide":"right","toNode":"6ba8ba33c3d32943","toSide":"left","label":"that goes\n"},
 		{"id":"1a158de6bcc3c0e5","fromNode":"6ba8ba33c3d32943","fromSide":"right","toNode":"116a62e2126f9e9c","toSide":"left","label":"in my life is part of "},
 		{"id":"b3ae65dc5adb0549","fromNode":"8912ba374a940c2a","fromSide":"bottom","toNode":"6ba8ba33c3d32943","toSide":"bottom","label":"I do"},
@@ -33,6 +19,6 @@
 		{"id":"160a10832982b71b","fromNode":"5893497a4b1008e5","fromSide":"right","toNode":"cc8aff83a6a8b4b6","toSide":"bottom","color":"1","label":"more"},
 		{"id":"9e351063c7ce32f5","fromNode":"5667f0bac5cff512","fromSide":"right","toNode":"cc8aff83a6a8b4b6","toSide":"left"},
 		{"id":"ba8c06d61629e53b","fromNode":"669f24fb6ee25c19","fromSide":"right","toNode":"cc8aff83a6a8b4b6","toSide":"left","label":"to"},
-		{"id":"8141555ded6736d5","fromNode":"cc8aff83a6a8b4b6","fromSide":"right","toNode":"8912ba374a940c2a","toSide":"left"}
+		{"id":"8141555ded6736d5","fromNode":"cc8aff83a6a8b4b6","fromSide":"right","toNode":"8912ba374a940c2a","toSide":"left","label":"that"}
 	]
 }
