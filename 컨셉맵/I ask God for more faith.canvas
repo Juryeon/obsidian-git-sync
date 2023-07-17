@@ -6,10 +6,11 @@
 		{"type":"text","text":"I","id":"37a76230428573db","x":-605,"y":162,"width":75,"height":60},
 		{"type":"text","text":"mistakes","id":"a21b3f3830382952","x":-357,"y":280,"width":250,"height":60},
 		{"type":"text","text":"faith","id":"e82d70c2cd6ab209","x":-669,"y":-240,"width":250,"height":60},
-		{"id":"8912ba374a940c2a","x":-820,"y":501,"width":127,"height":60,"type":"text","text":"everything"},
-		{"id":"6ba8ba33c3d32943","x":-490,"y":501,"width":98,"height":60,"type":"text","text":"wrong"},
-		{"id":"116a62e2126f9e9c","x":-107,"y":498,"width":250,"height":60,"type":"text","text":"Your good plan"},
-		{"id":"fe7165b91002073c","x":-107,"y":620,"width":164,"height":53,"type":"text","text":"someting good"}
+		{"type":"text","text":"everything","id":"8912ba374a940c2a","x":-820,"y":501,"width":127,"height":60},
+		{"type":"text","text":"wrong","id":"6ba8ba33c3d32943","x":-490,"y":501,"width":98,"height":60},
+		{"type":"text","text":"Your good plan","id":"116a62e2126f9e9c","x":-107,"y":498,"width":250,"height":60},
+		{"type":"text","text":"someting good","id":"fe7165b91002073c","x":-107,"y":620,"width":164,"height":53},
+		{"type":"text","text":"It","id":"5667f0bac5cff512","x":-1184,"y":511,"width":104,"height":50}
 	],
 	"edges":[
 		{"id":"3bd3a200483272f7","fromNode":"188a76edecc6be6f","fromSide":"right","toNode":"31fa1503bc9c18a7","toSide":"left","label":"has a"},
@@ -23,6 +24,7 @@
 		{"id":"dbcaeda8f0569a88","fromNode":"8912ba374a940c2a","fromSide":"right","toNode":"6ba8ba33c3d32943","toSide":"left","label":"that goes\n"},
 		{"id":"1a158de6bcc3c0e5","fromNode":"6ba8ba33c3d32943","fromSide":"right","toNode":"116a62e2126f9e9c","toSide":"left","label":"in my life is part of "},
 		{"id":"b3ae65dc5adb0549","fromNode":"8912ba374a940c2a","fromSide":"bottom","toNode":"6ba8ba33c3d32943","toSide":"bottom","label":"I do"},
-		{"id":"558d579ad9bc4957","fromNode":"6ba8ba33c3d32943","fromSide":"bottom","toNode":"fe7165b91002073c","toSide":"left","label":"can somehow lead to"}
+		{"id":"558d579ad9bc4957","fromNode":"6ba8ba33c3d32943","fromSide":"bottom","toNode":"fe7165b91002073c","toSide":"left","label":"can somehow lead to"},
+		{"id":"fce2501d5577cb70","fromNode":"5667f0bac5cff512","fromSide":"right","toNode":"8912ba374a940c2a","toSide":"left"}
 	]
 }
