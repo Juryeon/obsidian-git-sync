@@ -29,8 +29,8 @@
 		{"id":"1a158de6bcc3c0e5","fromNode":"6ba8ba33c3d32943","fromSide":"right","toNode":"116a62e2126f9e9c","toSide":"left","label":"in my life is part of "},
 		{"id":"b3ae65dc5adb0549","fromNode":"8912ba374a940c2a","fromSide":"bottom","toNode":"6ba8ba33c3d32943","toSide":"bottom","label":"I do"},
 		{"id":"558d579ad9bc4957","fromNode":"6ba8ba33c3d32943","fromSide":"bottom","toNode":"fe7165b91002073c","toSide":"left","label":"can somehow lead to"},
-		{"id":"7a1ddfef35116b7f","fromNode":"7b6d5ad41270a5ea","fromSide":"right","toNode":"cc8aff83a6a8b4b6","toSide":"bottom","label":"a little"},
-		{"id":"160a10832982b71b","fromNode":"5893497a4b1008e5","fromSide":"right","toNode":"cc8aff83a6a8b4b6","toSide":"bottom","label":"more"},
+		{"id":"7a1ddfef35116b7f","fromNode":"7b6d5ad41270a5ea","fromSide":"right","toNode":"cc8aff83a6a8b4b6","toSide":"bottom","color":"1","label":"a little"},
+		{"id":"160a10832982b71b","fromNode":"5893497a4b1008e5","fromSide":"right","toNode":"cc8aff83a6a8b4b6","toSide":"bottom","color":"1","label":"more"},
 		{"id":"9e351063c7ce32f5","fromNode":"5667f0bac5cff512","fromSide":"right","toNode":"cc8aff83a6a8b4b6","toSide":"left"},
 		{"id":"ba8c06d61629e53b","fromNode":"669f24fb6ee25c19","fromSide":"right","toNode":"cc8aff83a6a8b4b6","toSide":"left","label":"to"},
 		{"id":"8141555ded6736d5","fromNode":"cc8aff83a6a8b4b6","fromSide":"right","toNode":"8912ba374a940c2a","toSide":"left"}
