@@ -1,10 +1,11 @@
 {
 	"nodes":[
-		{"id":"5418616a2c252ef4","x":0,"y":-40,"width":187,"height":60,"type":"text","text":"Your commitment"},
-		{"type":"text","text":"I","id":"95977eeb0f7477da","x":-420,"y":-40,"width":60,"height":60},
-		{"id":"9e9ccd84ee1ff4b7","x":-250,"y":80,"width":250,"height":60,"type":"text","text":""}
+		{"id":"9e9ccd84ee1ff4b7","x":-200,"y":-40,"width":110,"height":60,"type":"text","text":"far less"},
+		{"type":"text","text":"I","id":"95977eeb0f7477da","x":-500,"y":-40,"width":60,"height":60},
+		{"id":"5418616a2c252ef4","x":100,"y":-40,"width":187,"height":60,"type":"text","text":"Your commitment"}
 	],
 	"edges":[
-		{"id":"6beef01611499c17","fromNode":"95977eeb0f7477da","fromSide":"right","toNode":"5418616a2c252ef4","toSide":"left","label":"would settle for far less than"}
+		{"id":"6beef01611499c17","fromNode":"95977eeb0f7477da","fromSide":"right","toNode":"9e9ccd84ee1ff4b7","toSide":"left","label":"would settle for"},
+		{"id":"98fa23ca301b81be","fromNode":"9e9ccd84ee1ff4b7","fromSide":"right","toNode":"5418616a2c252ef4","toSide":"left","label":"than"}
 	]
 }
