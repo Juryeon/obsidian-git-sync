@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"type":"text","text":"I","id":"95977eeb0f7477da","x":-240,"y":-40,"width":60,"height":60}
+		{"id":"5418616a2c252ef4","x":0,"y":-40,"width":187,"height":60,"type":"text","text":"Your commitment"},
+		{"type":"text","text":"I","id":"95977eeb0f7477da","x":-420,"y":-40,"width":60,"height":60}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"6beef01611499c17","fromNode":"95977eeb0f7477da","fromSide":"right","toNode":"5418616a2c252ef4","toSide":"left","label":"would settle for far less than"}
+	]
 }
