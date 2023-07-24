@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"95977eeb0f7477da","x":-125,"y":-30,"width":85,"height":60,"type":"text","text":"God"}
+		{"type":"text","text":"I","id":"95977eeb0f7477da","x":-240,"y":-40,"width":60,"height":60}
 	],
 	"edges":[]
 }
