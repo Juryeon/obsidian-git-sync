@@ -9,10 +9,10 @@
 		{"type":"text","text":"My commitment","id":"58f2e1e9833b6250","x":-160,"y":80,"width":195,"height":60}
 	],
 	"edges":[
-		{"id":"6beef01611499c17","fromNode":"95977eeb0f7477da","fromSide":"right","toNode":"9e9ccd84ee1ff4b7","toSide":"left","label":"would settle for"},
+		{"id":"6beef01611499c17","fromNode":"95977eeb0f7477da","fromSide":"right","toNode":"9e9ccd84ee1ff4b7","toSide":"left","color":"5","label":"would settle for"},
 		{"id":"98fa23ca301b81be","fromNode":"9e9ccd84ee1ff4b7","fromSide":"right","toNode":"5418616a2c252ef4","toSide":"left","label":"than"},
 		{"id":"ad5d0e61df5cf89b","fromNode":"5418616a2c252ef4","fromSide":"right","toNode":"db0069aa9c62f753","toSide":"left","label":"to make me"},
-		{"id":"89ea88d35565c97f","fromNode":"58f2e1e9833b6250","fromSide":"right","toNode":"231a016fa6fe89e8","toSide":"left","label":"is to use"},
+		{"id":"89ea88d35565c97f","fromNode":"58f2e1e9833b6250","fromSide":"right","toNode":"231a016fa6fe89e8","toSide":"left","color":"5","label":"is to use"},
 		{"id":"b5e4864457fac118","fromNode":"231a016fa6fe89e8","fromSide":"right","toNode":"47acfe31ad160834","toSide":"left","label":"to make my life"}
 	]
 }
