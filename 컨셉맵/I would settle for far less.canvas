@@ -1,12 +1,12 @@
 {
 	"nodes":[
 		{"type":"text","text":"I","id":"95977eeb0f7477da","x":-500,"y":-40,"width":60,"height":60},
-		{"id":"5418616a2c252ef4","x":100,"y":-40,"width":187,"height":60,"type":"text","text":"Your commitment"},
-		{"id":"9e9ccd84ee1ff4b7","x":-160,"y":-40,"width":110,"height":60,"type":"text","text":"far less"},
-		{"id":"db0069aa9c62f753","x":560,"y":-35,"width":180,"height":55,"type":"text","text":"holy as you are"},
-		{"id":"231a016fa6fe89e8","x":240,"y":80,"width":80,"height":60,"type":"text","text":"You"},
-		{"id":"47acfe31ad160834","x":580,"y":80,"width":160,"height":60,"type":"text","text":"comfortable."},
-		{"id":"58f2e1e9833b6250","x":-160,"y":80,"width":195,"height":60,"type":"text","text":"My commitment"}
+		{"type":"text","text":"Your commitment","id":"5418616a2c252ef4","x":100,"y":-40,"width":187,"height":60},
+		{"type":"text","text":"far less","id":"9e9ccd84ee1ff4b7","x":-160,"y":-40,"width":110,"height":60},
+		{"type":"text","text":"holy as you are","id":"db0069aa9c62f753","x":560,"y":-35,"width":180,"height":55,"color":"1"},
+		{"type":"text","text":"You","id":"231a016fa6fe89e8","x":240,"y":80,"width":80,"height":60},
+		{"type":"text","text":"comfortable.","id":"47acfe31ad160834","x":580,"y":80,"width":160,"height":60,"color":"5"},
+		{"type":"text","text":"My commitment","id":"58f2e1e9833b6250","x":-160,"y":80,"width":195,"height":60}
 	],
 	"edges":[
 		{"id":"6beef01611499c17","fromNode":"95977eeb0f7477da","fromSide":"right","toNode":"9e9ccd84ee1ff4b7","toSide":"left","label":"would settle for"},
