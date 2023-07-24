@@ -3,11 +3,11 @@
 		{"type":"text","text":"I","id":"95977eeb0f7477da","x":-500,"y":-40,"width":60,"height":60},
 		{"id":"5418616a2c252ef4","x":100,"y":-40,"width":187,"height":60,"type":"text","text":"Your commitment"},
 		{"id":"9e9ccd84ee1ff4b7","x":-160,"y":-40,"width":110,"height":60,"type":"text","text":"far less"},
-		{"id":"db0069aa9c62f753","x":500,"y":-35,"width":180,"height":55,"type":"text","text":"holy as you are"}
+		{"id":"db0069aa9c62f753","x":560,"y":-35,"width":180,"height":55,"type":"text","text":"as you are"}
 	],
 	"edges":[
 		{"id":"6beef01611499c17","fromNode":"95977eeb0f7477da","fromSide":"right","toNode":"9e9ccd84ee1ff4b7","toSide":"left","label":"would settle for"},
 		{"id":"98fa23ca301b81be","fromNode":"9e9ccd84ee1ff4b7","fromSide":"right","toNode":"5418616a2c252ef4","toSide":"left","label":"than"},
-		{"id":"ad5d0e61df5cf89b","fromNode":"5418616a2c252ef4","fromSide":"right","toNode":"db0069aa9c62f753","toSide":"left","label":"to make me"}
+		{"id":"ad5d0e61df5cf89b","fromNode":"5418616a2c252ef4","fromSide":"right","toNode":"db0069aa9c62f753","toSide":"left","label":"to make me holy"}
 	]
 }
