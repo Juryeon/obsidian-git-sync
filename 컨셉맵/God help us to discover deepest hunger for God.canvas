@@ -1,11 +1,12 @@
 {
 	"nodes":[
+		{"id":"7f2c1c19731da607","x":161,"y":332,"width":250,"height":60,"type":"text","text":""},
 		{"type":"text","text":"God","id":"c8f3336cf376ec91","x":-125,"y":-30,"width":85,"height":60},
 		{"type":"text","text":"us","id":"0af2437ab3e76bc8","x":100,"y":-30,"width":80,"height":60},
 		{"type":"text","text":"deepest hunger\n","id":"1d2c61d45622e73d","x":640,"y":-180,"width":178,"height":60},
-		{"id":"39fe2ea5dad4f4e8","x":380,"y":30,"width":161,"height":55,"type":"text","text":"the courage"},
+		{"type":"text","text":"the courage","id":"39fe2ea5dad4f4e8","x":380,"y":30,"width":161,"height":55},
 		{"type":"text","text":"longing","id":"b885a666a24b486d","x":180,"y":360,"width":144,"height":60},
-		{"id":"a23c820348fb0a48","x":501,"y":240,"width":80,"height":60,"type":"text","text":"sin"}
+		{"type":"text","text":"sin","id":"a23c820348fb0a48","x":501,"y":240,"width":80,"height":60}
 	],
 	"edges":[
 		{"id":"6dc53c0750fb4d68","fromNode":"c8f3336cf376ec91","fromSide":"right","toNode":"0af2437ab3e76bc8","toSide":"left","label":"help"},
