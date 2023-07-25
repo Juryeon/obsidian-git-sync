@@ -1,9 +1,8 @@
 {
 	"nodes":[
-		{"type":"text","text":"Father","id":"7f2c1c19731da607","x":-125,"y":520,"width":105,"height":60},
+		{"type":"text","text":"Father,","id":"7f2c1c19731da607","x":-125,"y":520,"width":105,"height":60},
 		{"type":"text","text":"the courage","id":"07f98e6d0067044d","x":140,"y":521,"width":184,"height":59},
-		{"type":"text","text":"our deepest hunger","id":"2b8b83900c70a445","x":501,"y":520,"width":250,"height":60},
-		{"type":"text","text":"","id":"551b3f9d1973a9bf","x":846,"y":519,"width":250,"height":60}
+		{"type":"text","text":"our deepest hunger","id":"2b8b83900c70a445","x":501,"y":520,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"1627bc3f5c8f2593","fromNode":"7f2c1c19731da607","fromSide":"right","toNode":"07f98e6d0067044d","toSide":"left","label":"give us"},
