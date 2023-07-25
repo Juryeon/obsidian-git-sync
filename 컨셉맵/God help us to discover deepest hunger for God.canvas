@@ -7,7 +7,8 @@
 		{"type":"text","text":"longing","id":"b885a666a24b486d","x":180,"y":360,"width":144,"height":60},
 		{"type":"text","text":"sin","id":"a23c820348fb0a48","x":501,"y":240,"width":80,"height":60},
 		{"id":"7f2c1c19731da607","x":-125,"y":520,"width":105,"height":60,"type":"text","text":"Father"},
-		{"id":"07f98e6d0067044d","x":140,"y":521,"width":184,"height":59,"type":"text","text":"the courage"}
+		{"id":"07f98e6d0067044d","x":140,"y":521,"width":184,"height":59,"type":"text","text":"the courage"},
+		{"id":"b7591bffcc2b50dd","x":140,"y":643,"width":250,"height":60,"type":"text","text":"our deepest hunger"}
 	],
 	"edges":[
 		{"id":"6dc53c0750fb4d68","fromNode":"c8f3336cf376ec91","fromSide":"right","toNode":"0af2437ab3e76bc8","toSide":"left","label":"help"},
@@ -19,6 +20,7 @@
 		{"id":"a45ea66574e72404","fromNode":"c8f3336cf376ec91","fromSide":"bottom","toNode":"0af2437ab3e76bc8","toSide":"bottom","label":"wants to be with"},
 		{"id":"d3cf7b402107a823","fromNode":"0af2437ab3e76bc8","fromSide":"bottom","toNode":"a23c820348fb0a48","toSide":"top","label":"even when we are in"},
 		{"id":"5fab8581e5b85bfc","fromNode":"0af2437ab3e76bc8","fromSide":"right","toNode":"39fe2ea5dad4f4e8","toSide":"left","label":"with"},
-		{"id":"1627bc3f5c8f2593","fromNode":"7f2c1c19731da607","fromSide":"right","toNode":"07f98e6d0067044d","toSide":"left","label":"give us"}
+		{"id":"1627bc3f5c8f2593","fromNode":"7f2c1c19731da607","fromSide":"right","toNode":"07f98e6d0067044d","toSide":"left","label":"give us"},
+		{"id":"01c71a67fdc14d1c","fromNode":"7f2c1c19731da607","fromSide":"right","toNode":"b7591bffcc2b50dd","toSide":"left","label":"live in"}
 	]
 }
