@@ -1,12 +1,13 @@
 {
 	"nodes":[
-		{"id":"7f2c1c19731da607","x":161,"y":332,"width":250,"height":60,"type":"text","text":""},
 		{"type":"text","text":"God","id":"c8f3336cf376ec91","x":-125,"y":-30,"width":85,"height":60},
 		{"type":"text","text":"us","id":"0af2437ab3e76bc8","x":100,"y":-30,"width":80,"height":60},
 		{"type":"text","text":"deepest hunger\n","id":"1d2c61d45622e73d","x":640,"y":-180,"width":178,"height":60},
 		{"type":"text","text":"the courage","id":"39fe2ea5dad4f4e8","x":380,"y":30,"width":161,"height":55},
 		{"type":"text","text":"longing","id":"b885a666a24b486d","x":180,"y":360,"width":144,"height":60},
-		{"type":"text","text":"sin","id":"a23c820348fb0a48","x":501,"y":240,"width":80,"height":60}
+		{"type":"text","text":"sin","id":"a23c820348fb0a48","x":501,"y":240,"width":80,"height":60},
+		{"id":"7f2c1c19731da607","x":-110,"y":520,"width":90,"height":60,"type":"text","text":"God"},
+		{"id":"07f98e6d0067044d","x":93,"y":521,"width":87,"height":59,"type":"text","text":"us"}
 	],
 	"edges":[
 		{"id":"6dc53c0750fb4d68","fromNode":"c8f3336cf376ec91","fromSide":"right","toNode":"0af2437ab3e76bc8","toSide":"left","label":"help"},
@@ -17,6 +18,7 @@
 		{"id":"892b9c6ead3f395b","fromNode":"b885a666a24b486d","fromSide":"left","toNode":"c8f3336cf376ec91","toSide":"bottom","label":"of"},
 		{"id":"a45ea66574e72404","fromNode":"c8f3336cf376ec91","fromSide":"bottom","toNode":"0af2437ab3e76bc8","toSide":"bottom","label":"wants to be with"},
 		{"id":"d3cf7b402107a823","fromNode":"0af2437ab3e76bc8","fromSide":"bottom","toNode":"a23c820348fb0a48","toSide":"top","label":"even when we are in"},
-		{"id":"5fab8581e5b85bfc","fromNode":"0af2437ab3e76bc8","fromSide":"right","toNode":"39fe2ea5dad4f4e8","toSide":"left","label":"with"}
+		{"id":"5fab8581e5b85bfc","fromNode":"0af2437ab3e76bc8","fromSide":"right","toNode":"39fe2ea5dad4f4e8","toSide":"left","label":"with"},
+		{"id":"1627bc3f5c8f2593","fromNode":"7f2c1c19731da607","fromSide":"right","toNode":"07f98e6d0067044d","toSide":"left","label":"give"}
 	]
 }
