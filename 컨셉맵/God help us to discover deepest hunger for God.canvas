@@ -6,7 +6,8 @@
 		{"id":"73d1aa359da16bb0","x":-125,"y":740,"width":105,"height":60,"type":"text","text":"Father,"},
 		{"id":"0ac4f0622bd52086","x":133,"y":741,"width":127,"height":60,"type":"text","text":"the truth"},
 		{"id":"016d4087c49084d6","x":376,"y":740,"width":184,"height":60,"type":"text","text":"You as a holy God"},
-		{"id":"bfd80f7ad4b94455","x":780,"y":740,"width":80,"height":60,"type":"text","text":"us"}
+		{"id":"bfd80f7ad4b94455","x":780,"y":740,"width":80,"height":60,"type":"text","text":"us"},
+		{"id":"d8e7168f90905e16","x":1040,"y":738,"width":115,"height":62,"type":"text","text":"our sin"}
 	],
 	"edges":[
 		{"id":"1627bc3f5c8f2593","fromNode":"7f2c1c19731da607","fromSide":"right","toNode":"07f98e6d0067044d","toSide":"left","label":"give us"},
@@ -15,6 +16,7 @@
 		{"id":"5a99ca15b898a14f","fromNode":"2b8b83900c70a445","fromSide":"top","toNode":"7f2c1c19731da607","toSide":"top","label":"for"},
 		{"id":"d7c5b97af271bd4e","fromNode":"73d1aa359da16bb0","fromSide":"right","toNode":"0ac4f0622bd52086","toSide":"left","label":"redeem"},
 		{"id":"61ab381a38d857cc","fromNode":"0ac4f0622bd52086","fromSide":"right","toNode":"016d4087c49084d6","toSide":"left","label":"that"},
-		{"id":"c8713684f13b57e1","fromNode":"016d4087c49084d6","fromSide":"right","toNode":"bfd80f7ad4b94455","toSide":"left","label":"desire to live with"}
+		{"id":"c8713684f13b57e1","fromNode":"016d4087c49084d6","fromSide":"right","toNode":"bfd80f7ad4b94455","toSide":"left","label":"desire to live with"},
+		{"id":"bb7e41cc5563de17","fromNode":"bfd80f7ad4b94455","fromSide":"right","toNode":"d8e7168f90905e16","toSide":"left","label":"even amid"}
 	]
 }
