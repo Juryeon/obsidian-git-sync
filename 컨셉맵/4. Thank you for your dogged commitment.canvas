@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"type":"text","text":"Thank you","id":"1d53a2ef41dbf884","x":-125,"y":-30,"width":145,"height":60},
+		{"type":"text","text":"your dogged commitment","id":"1c0d7a656c189ff2","x":100,"y":-30,"width":250,"height":60},
+		{"type":"text","text":"me","id":"c633a84ce6af53b8","x":600,"y":-25,"width":80,"height":55},
+		{"type":"text","text":"me","id":"8fb0fae0d3786f85","x":601,"y":56,"width":79,"height":50},
+		{"type":"text","text":"your party","id":"a4e902287c73db90","x":738,"y":51,"width":250,"height":60},
+		{"type":"text","text":"Open my eyes","id":"848e7b19f412215d","x":-142,"y":180,"width":162,"height":60},
+		{"type":"text","text":"I","id":"01c3a4969b6d667b","x":225,"y":180,"width":50,"height":51},
+		{"id":"f215dd00ecf7ecb8","x":600,"y":181,"width":167,"height":50,"type":"text","text":"my comfort"},
+		{"id":"b67725e0618d68b8","x":920,"y":175,"width":160,"height":56,"type":"text","text":"my holiness"}
+	],
+	"edges":[
+		{"id":"16021857eeb79a5b","fromNode":"1d53a2ef41dbf884","fromSide":"right","toNode":"1c0d7a656c189ff2","toSide":"left","label":"for"},
+		{"id":"ce050d42115118dd","fromNode":"1c0d7a656c189ff2","fromSide":"right","toNode":"c633a84ce6af53b8","toSide":"left","label":"to purify"},
+		{"id":"b9ece5b847fc2d0f","fromNode":"1c0d7a656c189ff2","fromSide":"right","toNode":"8fb0fae0d3786f85","toSide":"left","label":"to get"},
+		{"id":"17ff9fb85ff20b7b","fromNode":"8fb0fae0d3786f85","fromSide":"right","toNode":"a4e902287c73db90","toSide":"left","label":"to"},
+		{"id":"44f0396606e925b4","fromNode":"848e7b19f412215d","fromSide":"right","toNode":"01c3a4969b6d667b","toSide":"left","label":"to see where"},
+		{"id":"81d4ca50b271dae7","fromNode":"01c3a4969b6d667b","fromSide":"right","toNode":"f215dd00ecf7ecb8","toSide":"left","label":"am more committed to"},
+		{"id":"e21c24dbafa01a68","fromNode":"f215dd00ecf7ecb8","fromSide":"right","toNode":"b67725e0618d68b8","toSide":"left","label":"than"}
+	]
+}
