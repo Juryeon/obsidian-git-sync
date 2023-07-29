@@ -2,10 +2,12 @@
 	"nodes":[
 		{"type":"text","text":"I","id":"1cb837a37b22bdd1","x":-125,"y":-30,"width":50,"height":50},
 		{"type":"text","text":"a blessed life here","id":"62fd2bb0ed56c816","x":180,"y":-30,"width":200,"height":50},
-		{"id":"5c8467af5e4d2d61","x":-105,"y":134,"width":250,"height":60,"type":"text","text":""}
+		{"id":"ffb94e4196813a5a","x":180,"y":40,"width":80,"height":60,"type":"text","text":"You"},
+		{"id":"3d6384c88ca650b1","x":386,"y":41,"width":250,"height":60,"type":"text","text":"my agendas"}
 	],
 	"edges":[
 		{"id":"72642ee55070b159","fromNode":"1cb837a37b22bdd1","fromSide":"right","toNode":"62fd2bb0ed56c816","toSide":"left","label":"would easily settle for"},
-		{"id":"f03c1e1565bef2c8","fromNode":"1cb837a37b22bdd1","fromSide":"bottom","toNode":"5c8467af5e4d2d61","toSide":"top"}
+		{"id":"8f908481bbb863f1","fromNode":"1cb837a37b22bdd1","fromSide":"bottom","toNode":"ffb94e4196813a5a","toSide":"left","label":"trying to use"},
+		{"id":"db6cd3bd739c8754","fromNode":"ffb94e4196813a5a","fromSide":"right","toNode":"3d6384c88ca650b1","toSide":"left","label":"to cooperave"}
 	]
 }
