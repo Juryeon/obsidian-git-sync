@@ -5,12 +5,12 @@
 		{"id":"ffb94e4196813a5a","x":180,"y":40,"width":80,"height":60,"type":"text","text":"You"},
 		{"id":"3d6384c88ca650b1","x":480,"y":41,"width":154,"height":59,"type":"text","text":"my agendas"},
 		{"id":"7189897ae14e7c77","x":-125,"y":180,"width":85,"height":60,"type":"text","text":"You"},
-		{"id":"4a675d403ccfa378","x":96,"y":182,"width":250,"height":60,"type":"text","text":"a higher vision"}
+		{"id":"4a675d403ccfa378","x":96,"y":182,"width":204,"height":60,"type":"text","text":"such a higher vision"}
 	],
 	"edges":[
 		{"id":"72642ee55070b159","fromNode":"1cb837a37b22bdd1","fromSide":"right","toNode":"62fd2bb0ed56c816","toSide":"left","label":"would easily settle for"},
 		{"id":"8f908481bbb863f1","fromNode":"1cb837a37b22bdd1","fromSide":"bottom","toNode":"ffb94e4196813a5a","toSide":"left","label":"trying to use"},
 		{"id":"db6cd3bd739c8754","fromNode":"ffb94e4196813a5a","fromSide":"right","toNode":"3d6384c88ca650b1","toSide":"left","label":"to cooperate with"},
-		{"id":"6383e23e362d2e1e","fromNode":"7189897ae14e7c77","fromSide":"right","toNode":"4a675d403ccfa378","toSide":"left","label":"have such"}
+		{"id":"6383e23e362d2e1e","fromNode":"7189897ae14e7c77","fromSide":"right","toNode":"4a675d403ccfa378","toSide":"left","label":"have"}
 	]
 }
