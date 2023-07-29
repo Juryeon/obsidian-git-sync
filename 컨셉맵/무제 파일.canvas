@@ -7,7 +7,8 @@
 		{"id":"7189897ae14e7c77","x":-125,"y":180,"width":85,"height":60,"type":"text","text":"You"},
 		{"id":"4a675d403ccfa378","x":96,"y":182,"width":204,"height":60,"type":"text","text":"such a higher vision"},
 		{"id":"7aa2d1d8eb88b390","x":367,"y":182,"width":93,"height":60,"type":"text","text":"me"},
-		{"id":"654bb8bc257232ca","x":539,"y":181,"width":61,"height":60,"type":"text","text":"I"}
+		{"id":"654bb8bc257232ca","x":539,"y":181,"width":61,"height":60,"type":"text","text":"I"},
+		{"id":"2dee17b3687afe7d","x":820,"y":182,"width":140,"height":59,"type":"text","text":"pulling off "}
 	],
 	"edges":[
 		{"id":"72642ee55070b159","fromNode":"1cb837a37b22bdd1","fromSide":"right","toNode":"62fd2bb0ed56c816","toSide":"left","label":"would easily settle for"},
@@ -15,6 +16,7 @@
 		{"id":"db6cd3bd739c8754","fromNode":"ffb94e4196813a5a","fromSide":"right","toNode":"3d6384c88ca650b1","toSide":"left","label":"to cooperate with"},
 		{"id":"6383e23e362d2e1e","fromNode":"7189897ae14e7c77","fromSide":"right","toNode":"4a675d403ccfa378","toSide":"left","label":"have"},
 		{"id":"dfd69c3ee58a0014","fromNode":"4a675d403ccfa378","fromSide":"right","toNode":"7aa2d1d8eb88b390","toSide":"left","label":"for"},
-		{"id":"db56f7c702fe78de","fromNode":"7aa2d1d8eb88b390","fromSide":"right","toNode":"654bb8bc257232ca","toSide":"left","label":"than"}
+		{"id":"db56f7c702fe78de","fromNode":"7aa2d1d8eb88b390","fromSide":"right","toNode":"654bb8bc257232ca","toSide":"left","label":"than"},
+		{"id":"65ce457c509e3097","fromNode":"654bb8bc257232ca","fromSide":"right","toNode":"2dee17b3687afe7d","toSide":"left","label":"am capable of"}
 	]
 }
