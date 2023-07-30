@@ -5,12 +5,14 @@
 		{"id":"de5a513629f5a7cf","x":361,"y":-37,"width":59,"height":60,"type":"text","text":"I"},
 		{"id":"aa00ba8cd24e7c44","x":520,"y":-37,"width":120,"height":60,"type":"text","text":"I deserve"},
 		{"id":"d3343755605c58ae","x":-199,"y":80,"width":62,"height":50,"type":"text","text":"I"},
-		{"id":"93a09a20ee09e980","x":-20,"y":76,"width":202,"height":54,"type":"text","text":"Your discerment"}
+		{"id":"93a09a20ee09e980","x":-20,"y":76,"width":180,"height":54,"type":"text","text":"Your discerment"},
+		{"id":"71c809f340611f6d","x":395,"y":70,"width":145,"height":60,"type":"text","text":"the real fight"}
 	],
 	"edges":[
 		{"id":"b169898707e5dbc9","fromNode":"6dd9554da206ea28","fromSide":"right","toNode":"997abef71c3cbdef","toSide":"left","label":"are about"},
 		{"id":"543199471118dfa5","fromNode":"997abef71c3cbdef","fromSide":"right","toNode":"de5a513629f5a7cf","toSide":"left","label":"that"},
 		{"id":"c343d1a0a6164955","fromNode":"de5a513629f5a7cf","fromSide":"right","toNode":"aa00ba8cd24e7c44","toSide":"left","label":"believe"},
-		{"id":"afc31cfcdc94dc8f","fromNode":"d3343755605c58ae","fromSide":"right","toNode":"93a09a20ee09e980","toSide":"left","label":"long for"}
+		{"id":"afc31cfcdc94dc8f","fromNode":"d3343755605c58ae","fromSide":"right","toNode":"93a09a20ee09e980","toSide":"left","label":"long for"},
+		{"id":"4f12e4950bdf6324","fromNode":"93a09a20ee09e980","fromSide":"right","toNode":"71c809f340611f6d","toSide":"left","label":"to be about"}
 	]
 }
