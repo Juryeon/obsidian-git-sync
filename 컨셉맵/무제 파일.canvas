@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"6dd9554da206ea28","x":-125,"y":-30,"width":105,"height":50,"type":"text","text":"My battle"},
+		{"id":"997abef71c3cbdef","x":84,"y":-37,"width":250,"height":60,"type":"text","text":"securing blessing"}
+	],
+	"edges":[
+		{"id":"b169898707e5dbc9","fromNode":"6dd9554da206ea28","fromSide":"right","toNode":"997abef71c3cbdef","toSide":"left","label":"are about"}
+	]
+}
