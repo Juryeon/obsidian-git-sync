@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"type":"text","text":"I","id":"1cb837a37b22bdd1","x":-125,"y":-30,"width":50,"height":50},
+		{"type":"text","text":"a blessed life here","id":"62fd2bb0ed56c816","x":180,"y":-30,"width":200,"height":50},
+		{"type":"text","text":"You","id":"ffb94e4196813a5a","x":180,"y":40,"width":80,"height":60},
+		{"type":"text","text":"my agendas","id":"3d6384c88ca650b1","x":480,"y":41,"width":154,"height":59},
+		{"type":"text","text":"You","id":"7189897ae14e7c77","x":-125,"y":180,"width":85,"height":60},
+		{"type":"text","text":"such a higher vision","id":"4a675d403ccfa378","x":96,"y":182,"width":204,"height":60},
+		{"type":"text","text":"me","id":"7aa2d1d8eb88b390","x":367,"y":182,"width":93,"height":60},
+		{"type":"text","text":"I","id":"654bb8bc257232ca","x":539,"y":181,"width":61,"height":60},
+		{"type":"text","text":"pulling off ","id":"2dee17b3687afe7d","x":820,"y":182,"width":140,"height":59},
+		{"type":"text","text":"Thank You ","id":"639698467a1aa48e","x":-125,"y":340,"width":139,"height":50},
+		{"type":"text","text":"having done all the work","id":"3a6dc96c1149dca1","x":93,"y":335,"width":250,"height":60},
+		{"type":"text","text":"giving me heart","id":"ab1363fe097a0b06","x":509,"y":335,"width":171,"height":60},
+		{"type":"text","text":"my own strength","id":"3d28b13e38414381","x":1020,"y":181,"width":195,"height":60},
+		{"id":"f8c0696025aa15ec","x":808,"y":335,"width":82,"height":60,"type":"text","text":" You"},
+		{"id":"d28aafcefe3afe7e","x":965,"y":335,"width":175,"height":60,"type":"text","text":"Your son does"}
+	],
+	"edges":[
+		{"id":"72642ee55070b159","fromNode":"1cb837a37b22bdd1","fromSide":"right","toNode":"62fd2bb0ed56c816","toSide":"left","label":"would easily settle for"},
+		{"id":"8f908481bbb863f1","fromNode":"1cb837a37b22bdd1","fromSide":"bottom","toNode":"ffb94e4196813a5a","toSide":"left","label":"trying to use"},
+		{"id":"db6cd3bd739c8754","fromNode":"ffb94e4196813a5a","fromSide":"right","toNode":"3d6384c88ca650b1","toSide":"left","label":"to cooperate with"},
+		{"id":"6383e23e362d2e1e","fromNode":"7189897ae14e7c77","fromSide":"right","toNode":"4a675d403ccfa378","toSide":"left","label":"have"},
+		{"id":"dfd69c3ee58a0014","fromNode":"4a675d403ccfa378","fromSide":"right","toNode":"7aa2d1d8eb88b390","toSide":"left","label":"for"},
+		{"id":"db56f7c702fe78de","fromNode":"7aa2d1d8eb88b390","fromSide":"right","toNode":"654bb8bc257232ca","toSide":"left","label":"than"},
+		{"id":"65ce457c509e3097","fromNode":"654bb8bc257232ca","fromSide":"right","toNode":"2dee17b3687afe7d","toSide":"left","label":"am capable of"},
+		{"id":"be539585427849ea","fromNode":"639698467a1aa48e","fromSide":"right","toNode":"3a6dc96c1149dca1","toSide":"left","label":"for"},
+		{"id":"b01fc770308238c3","fromNode":"3a6dc96c1149dca1","fromSide":"right","toNode":"ab1363fe097a0b06","toSide":"left","label":"which includes"},
+		{"id":"c84bd4a707c90edc","fromNode":"2dee17b3687afe7d","fromSide":"right","toNode":"3d28b13e38414381","toSide":"left","label":"in"},
+		{"id":"1a597c518d1a39f5","fromNode":"ab1363fe097a0b06","fromSide":"right","toNode":"f8c0696025aa15ec","toSide":"left","label":"that loves"},
+		{"id":"0e76f4efd53ad279","fromNode":"f8c0696025aa15ec","fromSide":"right","toNode":"d28aafcefe3afe7e","toSide":"left","label":"as"}
+	]
+}
