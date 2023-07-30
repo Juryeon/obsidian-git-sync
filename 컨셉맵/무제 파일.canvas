@@ -1,11 +1,14 @@
 {
 	"nodes":[
 		{"id":"997abef71c3cbdef","x":84,"y":-37,"width":196,"height":60,"type":"text","text":"securing blessing"},
-		{"id":"6dd9554da206ea28","x":-180,"y":-27,"width":105,"height":50,"type":"text","text":"My battle"},
-		{"id":"de5a513629f5a7cf","x":361,"y":-37,"width":59,"height":60,"type":"text","text":"I"}
+		{"id":"6dd9554da206ea28","x":-200,"y":-27,"width":125,"height":50,"type":"text","text":"My battle"},
+		{"id":"de5a513629f5a7cf","x":361,"y":-37,"width":59,"height":60,"type":"text","text":"I"},
+		{"id":"aa00ba8cd24e7c44","x":520,"y":-37,"width":120,"height":60,"type":"text","text":"I deserve"},
+		{"id":"d3343755605c58ae","x":-199,"y":80,"width":159,"height":50,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"b169898707e5dbc9","fromNode":"6dd9554da206ea28","fromSide":"right","toNode":"997abef71c3cbdef","toSide":"left","label":"are about"},
-		{"id":"543199471118dfa5","fromNode":"997abef71c3cbdef","fromSide":"right","toNode":"de5a513629f5a7cf","toSide":"left","label":"that"}
+		{"id":"543199471118dfa5","fromNode":"997abef71c3cbdef","fromSide":"right","toNode":"de5a513629f5a7cf","toSide":"left","label":"that"},
+		{"id":"c343d1a0a6164955","fromNode":"de5a513629f5a7cf","fromSide":"right","toNode":"aa00ba8cd24e7c44","toSide":"left","label":"believe"}
 	]
 }
