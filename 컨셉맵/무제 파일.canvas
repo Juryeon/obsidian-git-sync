@@ -8,7 +8,7 @@
 		{"id":"93a09a20ee09e980","x":-20,"y":76,"width":180,"height":54,"type":"text","text":"Your discerment"},
 		{"id":"71c809f340611f6d","x":395,"y":70,"width":225,"height":60,"type":"text","text":"the real fight within me"},
 		{"id":"3b7a75adc56d1855","x":698,"y":71,"width":102,"height":56,"type":"text","text":"others"},
-		{"id":"da78e97c9482b787","x":920,"y":69,"width":250,"height":60,"type":"text","text":""}
+		{"id":"da78e97c9482b787","x":940,"y":70,"width":160,"height":57,"type":"text","text":"us to gratitude"}
 	],
 	"edges":[
 		{"id":"b169898707e5dbc9","fromNode":"6dd9554da206ea28","fromSide":"right","toNode":"997abef71c3cbdef","toSide":"left","label":"are about"},
@@ -17,6 +17,6 @@
 		{"id":"afc31cfcdc94dc8f","fromNode":"d3343755605c58ae","fromSide":"right","toNode":"93a09a20ee09e980","toSide":"left","label":"long for"},
 		{"id":"4f12e4950bdf6324","fromNode":"93a09a20ee09e980","fromSide":"right","toNode":"71c809f340611f6d","toSide":"left","label":"to be about"},
 		{"id":"61ce8f8c0969122d","fromNode":"71c809f340611f6d","fromSide":"right","toNode":"3b7a75adc56d1855","toSide":"left","label":"and"},
-		{"id":"f68c033ecf2af9f1","fromNode":"3b7a75adc56d1855","fromSide":"right","toNode":"da78e97c9482b787","toSide":"left","label":"that will"}
+		{"id":"f68c033ecf2af9f1","fromNode":"3b7a75adc56d1855","fromSide":"right","toNode":"da78e97c9482b787","toSide":"left","label":"that will lead"}
 	]
 }
