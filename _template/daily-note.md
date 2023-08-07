@@ -1,4 +1,4 @@
-날짜 : {{date:YYYY-MM-DD}}
+ith날짜 : {{date:YYYY-MM-DD}}
 - in the morning
 	- 듣기
 		- Job
