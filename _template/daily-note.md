@@ -1,4 +1,4 @@
-ith날짜 : {{date:YYYY-MM-DD}}
+날짜 : {{date:YYYY-MM-DD}}
 - in the morning
 	- 듣기
 		- Job
@@ -15,4 +15,4 @@ ith날짜 : {{date:YYYY-MM-DD}}
 		- 행복
 - 사건
 - 듣기
-	- Hebrews 
+	- 1 Timothy
