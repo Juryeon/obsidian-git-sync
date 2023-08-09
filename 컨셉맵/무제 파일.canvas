@@ -4,11 +4,13 @@
 		{"id":"d8d58a1268d8f936","x":100,"y":-55,"width":92,"height":55,"type":"text","text":"You"},
 		{"id":"08b34233ad458b0b","x":290,"y":-56,"width":210,"height":56,"type":"text","text":"my greatest blessing"},
 		{"id":"7f215a2a80e888b3","x":-154,"y":40,"width":135,"height":55,"type":"text","text":"My priority"},
-		{"id":"062e357b0bf5f892","x":97,"y":37,"width":250,"height":60,"type":"text","text":""}
+		{"id":"062e357b0bf5f892","x":158,"y":37,"width":263,"height":58,"type":"text","text":"my own sense of well-being"},
+		{"id":"b6a53c5f30d0127d","x":161,"y":135,"width":250,"height":60,"type":"text","text":"not being"}
 	],
 	"edges":[
 		{"id":"addcbe338cbcc997","fromNode":"7f761431e2df256a","fromSide":"right","toNode":"d8d58a1268d8f936","toSide":"left","label":"long to see"},
 		{"id":"f39c494db8a93e2e","fromNode":"d8d58a1268d8f936","fromSide":"right","toNode":"08b34233ad458b0b","toSide":"left","label":"as"},
-		{"id":"554cb350a5ea0ba1","fromNode":"7f215a2a80e888b3","fromSide":"right","toNode":"062e357b0bf5f892","toSide":"left"}
+		{"id":"554cb350a5ea0ba1","fromNode":"7f215a2a80e888b3","fromSide":"right","toNode":"062e357b0bf5f892","toSide":"left","label":"is most often"},
+		{"id":"50ce75d716e6c9fe","fromNode":"062e357b0bf5f892","fromSide":"bottom","toNode":"b6a53c5f30d0127d","toSide":"top"}
 	]
 }
