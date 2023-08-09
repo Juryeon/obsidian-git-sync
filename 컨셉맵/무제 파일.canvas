@@ -8,7 +8,7 @@
 		{"id":"b6a53c5f30d0127d","x":520,"y":35,"width":280,"height":60,"type":"text","text":"not the well-being of others"},
 		{"id":"b90aafba78cf9df1","x":-185,"y":140,"width":166,"height":55,"type":"text","text":"Make me holy"},
 		{"id":"fc4e6781ff8386ff","x":192,"y":135,"width":50,"height":60,"type":"text","text":"I"},
-		{"id":"a30b4704501a5db6","x":460,"y":140,"width":250,"height":60,"type":"text","text":"the pleasure You knonw"}
+		{"id":"a30b4704501a5db6","x":460,"y":140,"width":250,"height":60,"type":"text","text":"the pleasure You know"}
 	],
 	"edges":[
 		{"id":"addcbe338cbcc997","fromNode":"7f761431e2df256a","fromSide":"right","toNode":"d8d58a1268d8f936","toSide":"left","label":"long to see"},
