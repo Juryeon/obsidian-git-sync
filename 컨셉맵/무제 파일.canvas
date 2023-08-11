@@ -2,10 +2,12 @@
 	"nodes":[
 		{"id":"984667d8d96c43ed","x":-267,"y":-60,"width":147,"height":50,"type":"text","text":"Your vision"},
 		{"id":"8b0544787dc43431","x":-40,"y":-60,"width":149,"height":55,"type":"text","text":"commitment"},
-		{"id":"9397ba849a72a0ba","x":380,"y":-60,"width":277,"height":60,"type":"text","text":"far bigger and more beautiful"}
+		{"id":"9397ba849a72a0ba","x":460,"y":-60,"width":277,"height":60,"type":"text","text":"far bigger and more beautiful"},
+		{"id":"c48c2b32b28756e2","x":180,"y":-60,"width":220,"height":55,"type":"text","text":"make me like Your Son"}
 	],
 	"edges":[
 		{"id":"c61b12d70dd939ec","fromNode":"984667d8d96c43ed","fromSide":"right","toNode":"8b0544787dc43431","toSide":"left","label":"and"},
-		{"id":"193b6f16715aeeb3","fromNode":"8b0544787dc43431","fromSide":"right","toNode":"9397ba849a72a0ba","toSide":"left","label":"to make me like Your son"}
+		{"id":"193b6f16715aeeb3","fromNode":"8b0544787dc43431","fromSide":"right","toNode":"c48c2b32b28756e2","toSide":"left","label":"to"},
+		{"id":"3a00e8fc7cdfa7eb","fromNode":"c48c2b32b28756e2","fromSide":"right","toNode":"9397ba849a72a0ba","toSide":"left"}
 	]
 }
