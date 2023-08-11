@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"984667d8d96c43ed","x":-267,"y":-60,"width":147,"height":50,"type":"text","text":"Your vision"},
+		{"id":"8b0544787dc43431","x":-49,"y":-65,"width":250,"height":60,"type":"text","text":"commitment"}
+	],
+	"edges":[
+		{"id":"c61b12d70dd939ec","fromNode":"984667d8d96c43ed","fromSide":"right","toNode":"8b0544787dc43431","toSide":"left"}
+	]
+}
