@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"5946a463df843f14","x":-375,"y":34,"width":250,"height":60,"type":"text","text":""},
 		{"id":"984667d8d96c43ed","x":-267,"y":-60,"width":147,"height":50,"type":"text","text":"Your vision"},
 		{"id":"8b0544787dc43431","x":-40,"y":-60,"width":149,"height":55,"type":"text","text":"commitment"},
 		{"id":"c48c2b32b28756e2","x":180,"y":-60,"width":220,"height":55,"type":"text","text":"make me like Your Son"},
