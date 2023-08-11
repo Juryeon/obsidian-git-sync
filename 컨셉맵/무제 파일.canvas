@@ -6,7 +6,7 @@
 		{"id":"9397ba849a72a0ba","x":480,"y":-62,"width":277,"height":60,"type":"text","text":"far bigger and more beautiful"},
 		{"id":"f350f20cdf983bf5","x":824,"y":-62,"width":196,"height":60,"type":"text","text":"my vision for myself"},
 		{"id":"5946a463df843f14","x":-267,"y":40,"width":376,"height":55,"type":"text","text":"No matter how dark the world around me"},
-		{"id":"395da5b4a59f8c56","x":400,"y":35,"width":250,"height":60,"type":"text","text":""}
+		{"id":"395da5b4a59f8c56","x":230,"y":38,"width":250,"height":60,"type":"text","text":"no matter how difficult the world inside me becomes"}
 	],
 	"edges":[
 		{"id":"c61b12d70dd939ec","fromNode":"984667d8d96c43ed","fromSide":"right","toNode":"8b0544787dc43431","toSide":"left","label":"and"},
