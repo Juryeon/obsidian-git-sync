@@ -5,14 +5,14 @@
 		{"id":"c48c2b32b28756e2","x":180,"y":-60,"width":220,"height":55,"type":"text","text":"make me like Your Son"},
 		{"id":"9397ba849a72a0ba","x":480,"y":-62,"width":277,"height":60,"type":"text","text":"far bigger and more beautiful"},
 		{"id":"f350f20cdf983bf5","x":824,"y":-62,"width":196,"height":60,"type":"text","text":"my vision for myself"},
-		{"id":"5946a463df843f14","x":-267,"y":40,"width":147,"height":50,"type":"text","text":"No matter"},
-		{"id":"395da5b4a59f8c56","x":-48,"y":37,"width":250,"height":60,"type":"text","text":""}
+		{"id":"5946a463df843f14","x":-267,"y":40,"width":376,"height":55,"type":"text","text":"No matter how dark the world around me"},
+		{"id":"395da5b4a59f8c56","x":400,"y":35,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"c61b12d70dd939ec","fromNode":"984667d8d96c43ed","fromSide":"right","toNode":"8b0544787dc43431","toSide":"left","label":"and"},
 		{"id":"193b6f16715aeeb3","fromNode":"8b0544787dc43431","fromSide":"right","toNode":"c48c2b32b28756e2","toSide":"left","label":"to"},
 		{"id":"3a00e8fc7cdfa7eb","fromNode":"c48c2b32b28756e2","fromSide":"right","toNode":"9397ba849a72a0ba","toSide":"left","label":"are"},
 		{"id":"20cacadf2154d826","fromNode":"9397ba849a72a0ba","fromSide":"right","toNode":"f350f20cdf983bf5","toSide":"left","label":"than"},
-		{"id":"cc831e0141c3116c","fromNode":"5946a463df843f14","fromSide":"right","toNode":"395da5b4a59f8c56","toSide":"left"}
+		{"id":"cc831e0141c3116c","fromNode":"5946a463df843f14","fromSide":"right","toNode":"395da5b4a59f8c56","toSide":"left","label":"or"}
 	]
 }
