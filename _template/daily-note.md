@@ -13,4 +13,4 @@
 		- 
 - 사건
 - 듣기
-	- 2 Timothy
+	- 2 Samuel
