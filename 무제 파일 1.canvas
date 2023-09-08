@@ -1,6 +1,15 @@
 {
 	"nodes":[
-		{"id":"9e216cd27f8344d2","x":-140,"y":-32,"width":250,"height":60,"type":"text","text":""}
+		{"type":"text","text":"하나님","id":"a98ca8a8e835c39b","x":-240,"y":-220,"width":100,"height":52},
+		{"type":"text","text":"예수님","id":"6fdf5409de281c2e","x":-160,"y":-114,"width":100,"height":52},
+		{"type":"text","text":"성령님","id":"041d9e0b9683391f","x":-320,"y":-114,"width":100,"height":52},
+		{"type":"text","text":"사람","id":"6f63d47efce263ea","x":160,"y":-118,"width":80,"height":60},
+		{"type":"text","text":"관계","id":"0b7e8404f102294e","x":0,"y":120,"width":80,"height":60}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"0e9498df2bd2bda1","fromNode":"041d9e0b9683391f","fromSide":"right","toNode":"6fdf5409de281c2e","toSide":"left","fromEnd":"arrow"},
+		{"id":"ee471c61dec4d872","fromNode":"6fdf5409de281c2e","fromSide":"top","toNode":"a98ca8a8e835c39b","toSide":"right","fromEnd":"arrow"},
+		{"id":"db38f6ed077d4c50","fromNode":"a98ca8a8e835c39b","fromSide":"left","toNode":"041d9e0b9683391f","toSide":"top","fromEnd":"arrow"},
+		{"id":"7cab8214eb36ad69","fromNode":"a98ca8a8e835c39b","fromSide":"right","toNode":"6f63d47efce263ea","toSide":"top","label":"love"}
+	]
 }
